@@ -11,7 +11,7 @@ The parser used here is also based on their sample dynamic parser. (Although the
 
 ## How to access?
 
-Just fetch the following URL of your choice (details below at [Current Shape](#current-shape)):
+Just fetch the following URL of your choice (details below at [What to use?](#what-to-use)):
 
 * Full (Verbose version):
 ```
