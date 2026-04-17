@@ -1,0 +1,45 @@
+name: Generate Piped Instances JSON (version-aware)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *' # every 30 minutes, adjust as needed
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci || npm install semver node-fetch@3
+
+      - name: Generate instances JSON (Node script)
+        env:
+          RAW_WIKI_URL: 'https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md'
+          OUTPUT_PATH: 'public/piped-instances.json'
+          NODE_ENV: production
+        run: node .github/scripts/check-instances.js
+
+      - name: Commit generated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/piped-instances.json || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(instances): update piped instances JSON [ci skip]" || true
+            git push origin HEAD:${{ github.ref_name || github.ref }}
+          fi
