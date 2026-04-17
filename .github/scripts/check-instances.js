@@ -13,7 +13,6 @@ const fetch = (...args) => import('node-fetch').then(m => m.default(...args));
 const semver = require('semver');
 
 const RAW_WIKI_URL = process.env.RAW_WIKI_URL || 'https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md';
-const OUTPUT = process.env.OUTPUT_PATH || 'public/piped-instances.json';
 
 const REQUEST_TIMEOUT_MS = 10000;
 const REQUEST_RETRY_ON_5XX_MS = 300;
@@ -365,6 +364,14 @@ function sortInstances(items) {
   });
 }
 
+// Turns flag emoji used in the md into country codes (e.g. US, FR, ZH)
+function emojiToISO(emoji) {
+  if (emoji === "?") return "?";
+  return Array.from(emoji)
+    .map(char => String.fromCharCode(char.codePointAt(0) - 127397))
+    .join('');
+}
+
 (async function main() {
   try {
     log('INIT', `Fetching wiki list from ${RAW_WIKI_URL}`);
@@ -382,9 +389,11 @@ function sortInstances(items) {
         const api = normalizeApiUrl(urlMatch[0]);
         if (!api) continue;
         const parts = line.split('|').map(s => s.trim());
-        const name = parts[1] || api.replace(/^https?:\/\//, '');
-        const cdn = parts.length >= 5 ? (parts[4] || null) : null;
-        instances.push({ raw: line, api_url: api, name, cdn });
+        const name = parts[0] || api.replace(/^https?:\/\//, '');
+        const countryFlag = parts[2] || "?";
+        const countryISO = emojiToISO(countryFlag);
+        const cdn = parts.length >= 5 ? (parts[3] || null) : null;
+        instances.push({ raw: line, api_url: api, name, countryFlag, countryISO, cdn });
       }
       const seen = new Set();
       return instances.filter(i => {
@@ -446,29 +455,65 @@ function sortInstances(items) {
     }
 
     // main checks (sequential)
-    const finalResults = [];
-    for (const inst of withVersions) {
-      try {
-        const checked = await checkInstance(inst);
-        if (checked) {
-          checked.version = inst.version;
-          checked.isLatest = inst.isLatest;
-          finalResults.push(checked);
-        } else {
-          log('SKIP', `Excluding ${inst.api_url} from JSON due to preflight/no-success results.`);
+    const fullRes = (await Promise.all(
+      withVersions.map(async (inst) => {
+        try {
+          const checked = await checkInstance(inst);
+          if (checked) {
+            checked.version = inst.version;
+            checked.isLatest = inst.isLatest;
+            return checked;
+          } else {
+            log('SKIP', `Excluding ${inst.api_url} from JSON due to preflight/no-success results.`);
+          }
+        } catch (e) {
+          log('ERR', `Failed ${inst.api_url}: ${e.message}`);
         }
-      } catch (e) {
-        log('ERR', `Unexpected error checking ${inst.api_url}: ${e.message || String(e)}`);
-      }
-    }
+        return null;
+      })
+    )).filter(Boolean);
 
-    // sort & write
-    const sorted = sortInstances(finalResults);
+    // sort & write (previous version)
+    /*
+    const sorted = sortInstances(fullRes);
     const out = { generated_at: new Date().toISOString(), source: RAW_WIKI_URL, version_priority: latest || null, instances: sorted };
 
     await fs.mkdir('public', { recursive: true });
     await fs.writeFile(OUTPUT, JSON.stringify(out, null, 2));
     log('DONE', `Wrote ${sorted.length} active instances to ${OUTPUT}`);
+    */
+
+    const sorted = sortInstances(fullRes);
+
+    // Generate the three data variations
+    const fullData = { 
+      generated_at: new Date().toISOString(), 
+      source: RAW_WIKI_URL, 
+      version_priority: latest || null, 
+      instances: sorted 
+    };
+
+    const liteData = {
+      ...fullData,
+      instances: sorted.map(({ suggestions, searches, ...lite }) => lite)
+    };
+
+    const minimalData = {
+      ...liteData,
+      instances: liteData.instances.map(({ metrics, ...minimal }) => minimal)
+    };
+
+    // Ensure the directory exists
+    await fs.mkdir('public', { recursive: true });
+
+    // Write all three files to the public directory
+    await Promise.all([
+      fs.writeFile('public/full.json', JSON.stringify(fullData, null, 2)),
+      fs.writeFile('public/lite.json', JSON.stringify(liteData, null, 2)),
+      fs.writeFile('public/minimal.json', JSON.stringify(minimalData, null, 2))
+    ]);
+
+    log('DONE', `Wrote versions to full.json, lite.json, and minimal.json`);
 
   } catch (err) {
     console.error('Fatal error', err);
