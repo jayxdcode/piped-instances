@@ -28,7 +28,6 @@ jobs:
       - name: Generate instances JSON (Node script)
         env:
           RAW_WIKI_URL: 'https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md'
-          OUTPUT_PATH: 'public/piped-instances.json'
           NODE_ENV: production
         run: node .github/scripts/check-instances.js
 
@@ -36,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/piped-instances.json || true
+          git add * || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
