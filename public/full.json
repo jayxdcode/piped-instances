@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T14:50:54.191Z",
+  "generated_at": "2026-04-18T15:46:35.002Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,13 +11,13 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "iris out",
+          "term": "rick astley",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 178,
-          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out karaoke\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\"]"
+          "time_ms": 144,
+          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley songs\",\"rick astley the smiths\",\"rick astley live\",\"rick astley foo fighters\",\"rick astley together forever\",\"rick astley waiting on you\",\"rick astley cry for help\",\"rick astley 2026\",\"rick astley she wants to dance with me"
         },
         {
           "kind": "suggest",
@@ -26,53 +26,53 @@
           "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 178,
+          "time_ms": 145,
           "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika kirk jd vance\",\"erika kirk interview\",\"erika jayne\",\"erika song\",\"erika diane\",\"erika piano\",\"erika i don't know\",\"erika kirk druski\",\"erika remix\",\"erika isac\",\"erika piano tutorial\"]"
         },
         {
           "kind": "suggest",
-          "term": "Never Gonna Give You Up",
+          "term": "iris out",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 182,
-          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up remix\",\"never gonna give you up 10 hours\",\"never gonna give you up piano\",\"never gonna give you up cover\",\"never gonna give you up meme\",\"never gonna give you up v"
+          "time_ms": 143,
+          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out karaoke\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "Never Gonna Give You Up",
+          "term": "союз советский социалистических республик",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=Never%20Gonna%20Give%20You%20Up&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 701,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDRxusbm2_TGTnDWEIhBTYW2cUQkw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\""
+          "time_ms": 808,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmDehF2p8sc\",\"type\":\"stream\",\"title\":\"All the republics of the USSR explained in 10 minutes\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmDehF2p8sc/hq720.jpg?host=i.ytimg.com&rs=AOn4CLCTd0QKdM3th_wYOIXxX-pNSPW1Lw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\""
         },
         {
           "kind": "search",
-          "term": "iris out",
+          "term": "erika",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 657,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Cb0JZhdmjtg\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/VGf2lFXKQdSyrz2g3Czj66doPtUxvJBrWDK6UFeOj8zRqS-tgs_D8FG5-8pYTX-Uh9FxZBDJIXtN1nKF=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-"
+          "time_ms": 684,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=mlYdF1JD4YE\",\"type\":\"stream\",\"title\":\"ERIKA\",\"thumbnail\":\"https://proxy.piped.private.coffee/9ZSS3Kvktu_GcFUlzRcLrOK8Icje-T2OLgPB5YczZrs1vVgtQGmiKVAblrdPULDrAN8ez0wMT9mpxsMg=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"EICHENBLUT\",\"uploaderUrl\":\"/channel/UCGmFOpOODoQ3UlzSu"
         },
         {
           "kind": "search",
-          "term": "союз советский социалистических республик",
+          "term": "rick astley",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 476,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=-8gySW7duCU\",\"type\":\"stream\",\"title\":\"Гимн СССР (1983)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/-8gySW7duCU/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3nbFlf8cejPsoKD-BFS5HH3ii9ikw&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Музыка на советском телевидении\",\"uploaderUrl"
+          "time_ms": 456,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lNNudXg7f4Qf7PiE9tvCAkHTjJ0w&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/U"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 179,
-        "avg_search_ms": 611,
-        "combined_latency_ms": 790
+        "avg_suggestion_ms": 144,
+        "avg_search_ms": 649,
+        "combined_latency_ms": 793
       },
-      "checked_at": "2026-04-18T14:50:44.578Z",
+      "checked_at": "2026-04-18T15:46:25.319Z",
       "version": "2026.0.0",
       "isLatest": true
     }
