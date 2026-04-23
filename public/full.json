@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T16:18:41.880Z",
+  "generated_at": "2026-04-23T17:54:53.153Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,68 +11,68 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "rick astley",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 212,
-          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley songs\",\"rick astley cardiff 2026\",\"rick astley waiting on you\",\"rick astley together forever\",\"rick astley reaction\",\"rick astley the smiths\",\"rick astley cry for help\",\"rick astley never gonna give you up live\",\"rick astle"
-        },
-        {
-          "kind": "suggest",
-          "term": "imagine dragons",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 207,
-          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons and sia\",\"imagine dragons live\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons "
-        },
-        {
-          "kind": "suggest",
           "term": "Never Gonna Give You Up",
           "path": "/suggestions",
           "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 213,
+          "time_ms": 216,
           "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up live\",\"never gonna give you up piano\",\"never gonna give you up barry white\",\"never gonna give you up remix\",\"never gonna give yo"
+        },
+        {
+          "kind": "suggest",
+          "term": "союз советский социалистических республик",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 282,
+          "body_sample": "[\"cccp national anthem 1977\",\"советский гимн 1944\",\"soviet anthem belarus\"]"
+        },
+        {
+          "kind": "suggest",
+          "term": "ado",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 190,
+          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adopt me trading\",\"adopt me house build\",\"adom tv live\",\"adore you miley cyrus\",\"adom fm 106.3 live\",\"adolf hitler\",\"adorn miguel\",\"adopt me channel\",\"adopt me admin abuse\",\"adolf silva rampage crash\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "iris out",
+          "term": "союз советский социалистических республик",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 821,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"Kenshi Yonezu - IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmZD-TU96q4/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAjXMjvAckioBpWT-ksz16_e8ugtA&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Kenshi Yonezu  米津玄師\",\"uploa"
+          "time_ms": 728,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=aKoCYJNbuIA\",\"type\":\"stream\",\"title\":\"Союз Советских Социалистических Республик также СССР. Текст из Википедии озвучен роботом\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/aKoCYJNbuIA/hqdefault.jpg?host=i.ytimg.com&rs=AOn4CLAPwYY4IFxRHDtp9jOmhp0N7E6U4g&sqp=-oaymwE2COADEI4CSFXyq4qpAygIA"
         },
         {
           "kind": "search",
-          "term": "союз советский социалистических республик",
+          "term": "iris out",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 868,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=MQdi8IaMavs\",\"type\":\"stream\",\"title\":\"Советский Союз\",\"thumbnail\":\"https://proxy.piped.private.coffee/f81v6cACy8KRfL9LBNdt9KI7zaC77j7ufmrpcu7rZiskRSADW3i-FsqPlZgSbVZff8wbDD7Br85-Z2fj=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Керсари\",\"uploaderUrl\":\"/channel/UCNwUCEhpFDS"
+          "time_ms": 684,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Cb0JZhdmjtg\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/VGf2lFXKQdSyrz2g3Czj66doPtUxvJBrWDK6UFeOj8zRqS-tgs_D8FG5-8pYTX-Uh9FxZBDJIXtN1nKF=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-"
         },
         {
           "kind": "search",
-          "term": "Never Gonna Give You Up",
+          "term": "erika",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 641,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lNNudXg7f4Qf7PiE9tvCAkHTjJ0w&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/U"
+          "time_ms": 471,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lIGnsH9TVSUWCxejmdJwpg9IzFbg&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"FederalBruv\",\"uploaderUrl"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 211,
-        "avg_search_ms": 777,
-        "combined_latency_ms": 988
+        "avg_suggestion_ms": 229,
+        "avg_search_ms": 628,
+        "combined_latency_ms": 857
       },
-      "checked_at": "2026-04-23T16:18:32.954Z",
+      "checked_at": "2026-04-23T17:54:43.935Z",
       "version": "2026.0.0",
       "isLatest": true
     }
