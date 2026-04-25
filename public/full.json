@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T12:04:13.227Z",
+  "generated_at": "2026-04-25T13:46:05.134Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,23 +11,13 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "союз советский социалистических республик",
+          "term": "ado",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 276,
-          "body_sample": "[\"cccp national anthem 1977\",\"soviet anthem belarus\",\"soviet national anthem 1977\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "iris out",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 187,
-          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out guitar\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\"]"
+          "time_ms": 167,
+          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adopt me trading\",\"adopt me house build\",\"adore you miley cyrus\",\"adotfrmdao\",\"adom tv live\",\"adorn miguel\",\"adolf hitler\",\"adom fm 106.3 live\",\"adopt me admin abuse\",\"adolf silva rampage crash\"]"
         },
         {
           "kind": "suggest",
@@ -36,43 +26,53 @@
           "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 185,
-          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons live\",\"imagine dragons radioactive\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons sia\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons song"
+          "time_ms": 202,
+          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons live\",\"imagine dragons radioactive\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons sia\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons what"
+        },
+        {
+          "kind": "suggest",
+          "term": "iris out",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 170,
+          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out guitar\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "rick astley",
+          "term": "ado",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=ado&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 762,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDRxusbm2_TGTnDWEIhBTYW2cUQkw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\""
+          "time_ms": 823,
+          "body_sample": "{\"items\":[{\"url\":\"/channel/UCln9P4Qm3-EAY4aiEPmRwEA\",\"type\":\"channel\",\"name\":\"Ado\",\"thumbnail\":\"https://proxy.piped.private.coffee/BKpE74RwbPJ8zLaad9Y2XoX7SmIEsoma1KB8dNzwtWwiOqgTNnYI_guEP1iAaTBrdk4nHakx=s176-c-k-c0x00ffffff-no-rw-mo?host=yt3.googleusercontent.com\",\"description\":\"元気です。\",\"subscribers\":9170000,\"videos\":-"
         },
         {
           "kind": "search",
-          "term": "Never Gonna Give You Up",
+          "term": "rick astley",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 594,
+          "time_ms": 625,
           "body_sample": "{\"items\":[{\"url\":\"/watch?v=lYBUbBu4W08\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/eC9DfRcYSk4FE-fvDCJSu_4xsKdVMKxwmFTYFZwP8OqB7R4TKxAjKoR-Kp1lXeRi2WddPFYulSte4eW-=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel"
         },
         {
           "kind": "search",
-          "term": "erika",
+          "term": "союз советский социалистических республик",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 430,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lIGnsH9TVSUWCxejmdJwpg9IzFbg&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"FederalBruv\",\"uploaderUrl"
+          "time_ms": 537,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=-8gySW7duCU\",\"type\":\"stream\",\"title\":\"Гимн СССР (1983)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/-8gySW7duCU/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3nbFlf8cejPsoKD-BFS5HH3ii9ikw&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Музыка на советском телевидении\",\"uploaderUrl"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 216,
-        "avg_search_ms": 595,
-        "combined_latency_ms": 811
+        "avg_suggestion_ms": 180,
+        "avg_search_ms": 662,
+        "combined_latency_ms": 842
       },
-      "checked_at": "2026-04-25T12:04:04.025Z",
+      "checked_at": "2026-04-25T13:45:55.694Z",
       "version": "2026.0.0",
       "isLatest": true
     }
