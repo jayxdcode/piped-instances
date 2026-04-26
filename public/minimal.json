@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-04-26T08:05:47.145Z",
+  "generated_at": "2026-04-26T09:33:13.146Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
-  "version_priority": "2026.0.0",
-  "instances": [
-    {
-      "name": "private.coffee",
-      "api_url": "https://api.piped.private.coffee",
-      "cdn": "No",
-      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
-      "checked_at": "2026-04-26T08:05:37.071Z",
-      "version": "2026.0.0",
-      "isLatest": true
-    }
-  ]
+  "version_priority": null,
+  "instances": []
 }
