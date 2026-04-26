@@ -1,6 +1,93 @@
 {
-  "generated_at": "2026-04-26T09:33:13.146Z",
+  "generated_at": "2026-04-26T10:54:07.025Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
-  "version_priority": null,
-  "instances": []
+  "version_priority": "2026.0.0",
+  "instances": [
+    {
+      "name": "private.coffee",
+      "api_url": "https://api.piped.private.coffee",
+      "cdn": "No",
+      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
+      "suggestions": [
+        {
+          "kind": "suggest",
+          "term": "iris out",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 164,
+          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out guitar\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\"]"
+        },
+        {
+          "kind": "suggest",
+          "term": "rick astley",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 174,
+          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley songs\",\"rick astley the smiths\",\"rick astley together forever\",\"rick astley waiting on you\",\"rick astley foo fighters\",\"rick astley live\",\"rick astley cry for help\",\"rick astley nottingham\",\"rick astley whenever you need so"
+        },
+        {
+          "kind": "suggest",
+          "term": "Never Gonna Give You Up",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 165,
+          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up piano\",\"never gonna give you up 10 hours\",\"never gonna give you up japanese dub\",\"never gonna give you up remix\",\"never gonna give you up slowed\",\"never gonna give"
+        }
+      ],
+      "searches": [
+        {
+          "kind": "search",
+          "term": "erika",
+          "filter": "all",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=all",
+          "ok": true,
+          "status": 200,
+          "time_ms": 718,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/hq720.jpg?host=i.ytimg.com&rs=AOn4CLCmbbpjVVcUGF9CYtKwhd3SrVsxzg&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"FederalBruv\",\"u"
+        },
+        {
+          "kind": "search",
+          "term": "ado",
+          "filter": "music_songs",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=ado&filter=music_songs",
+          "ok": true,
+          "status": 200,
+          "time_ms": 528,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=NB94LKrLEt4\",\"type\":\"stream\",\"title\":\"おどるポンポコリン - Odoru Ponpokorin\",\"thumbnail\":\"https://proxy.piped.private.coffee/g7luv0CqyFqDZjgrhi7pAtKj_OWMk_DW_yofSjYbMIi26HY-wc1fnYjbu5V2G12aOci8F0x4aACIngDowQ=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Ado\",\"uploaderUrl\":\"/channel/"
+        },
+        {
+          "kind": "search",
+          "term": "Never Gonna Give You Up",
+          "filter": "music_videos",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_videos",
+          "ok": true,
+          "status": 200,
+          "time_ms": 580,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lNNudXg7f4Qf7PiE9tvCAkHTjJ0w&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/U"
+        }
+      ],
+      "metrics": {
+        "suggestion_success_count": 3,
+        "search_success_count": 3,
+        "suggestion_success_rate": 1,
+        "search_success_rate": 1,
+        "combined_success_rate": 1,
+        "avg_suggestion_ms": 168,
+        "avg_search_ms": 609,
+        "combined_latency_ms": 777
+      },
+      "checked_at": "2026-04-26T10:53:57.247Z",
+      "version": "2026.0.0",
+      "isLatest": true
+    }
+  ]
 }
