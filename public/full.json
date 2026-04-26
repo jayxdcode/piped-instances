@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T23:08:18.591Z",
+  "generated_at": "2026-04-26T00:06:00.653Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,57 +11,57 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "ado",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 183,
-          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adopt me trading\",\"adopt me house build\",\"adotfrmdao\",\"adore you miley cyrus\",\"adom tv live\",\"adorn miguel\",\"adopt me admin abuse\",\"adopt me live\",\"adolf hitler\",\"adopt me house build tiny house\"]"
-        },
-        {
-          "kind": "suggest",
           "term": "imagine dragons",
           "path": "/suggestions",
           "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 166,
-          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons live\",\"imagine dragons radioactive\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons sia\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons songs\",\"imagine dragons karaoke"
+          "time_ms": 186,
+          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons live\",\"imagine dragons radioactive\",\"imagine dragons sia\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons songs\",\"imagine dragons karaoke\",\"imagine dragons lyrics"
         },
         {
           "kind": "suggest",
-          "term": "Never Gonna Give You Up",
+          "term": "rick astley",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 178,
-          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up piano\",\"never gonna give you up 10 hours\",\"never gonna give you up slowed\",\"never gonna give you up japanese dub\",\"never gonna give you up remix\",\"never gonna give"
+          "time_ms": 179,
+          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley songs\",\"rick astley the smiths\",\"rick astley together forever\",\"rick astley live\",\"rick astley waiting on you\",\"rick astley foo fighters\",\"rick astley whenever you need somebody\",\"rick astley she wants to dance with me\",\"ri"
+        },
+        {
+          "kind": "suggest",
+          "term": "ado",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 164,
+          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adopt me trading\",\"adopt me house build\",\"adore you miley cyrus\",\"adotfrmdao\",\"adom tv live\",\"adopt me admin abuse\",\"adorn miguel\",\"adolf hitler\",\"adopt me live\",\"adopt me house build tiny house\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "iris out",
+          "term": "союз советский социалистических республик",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 516,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"Kenshi Yonezu - IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmZD-TU96q4/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAjXMjvAckioBpWT-ksz16_e8ugtA&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Kenshi Yonezu  米津玄師\",\"uploa"
+          "time_ms": 502,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmDehF2p8sc\",\"type\":\"stream\",\"title\":\"All the republics of the USSR explained in 10 minutes\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmDehF2p8sc/hq720.jpg?host=i.ytimg.com&rs=AOn4CLCTd0QKdM3th_wYOIXxX-pNSPW1Lw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\""
         },
         {
           "kind": "search",
-          "term": "союз советский социалистических республик",
+          "term": "erika",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 412,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=MQdi8IaMavs\",\"type\":\"stream\",\"title\":\"Советский Союз\",\"thumbnail\":\"https://proxy.piped.private.coffee/f81v6cACy8KRfL9LBNdt9KI7zaC77j7ufmrpcu7rZiskRSADW3i-FsqPlZgSbVZff8wbDD7Br85-Z2fj=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Керсари\",\"uploaderUrl\":\"/channel/UCNwUCEhpFDS"
+          "time_ms": 367,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=JPnje4CU5EI\",\"type\":\"stream\",\"title\":\"ERIKA\",\"thumbnail\":\"https://proxy.piped.private.coffee/Gjj1Zhed43OHqwuWPqJlyjUStbXMSDlwS59PpuzeVgdplSgYfvbtdlwP_Lgd_h8am4aIow9XKUQQlYON=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"EDGAR PACHECO - EDNK\",\"uploaderUrl\":\"/channel/UC9CM9OV"
         },
         {
           "kind": "search",
@@ -71,7 +71,7 @@
           "url": "https://api.piped.private.coffee/search?q=ado&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 372,
+          "time_ms": 382,
           "body_sample": "{\"items\":[{\"url\":\"/watch?v=YvYii6dluM8\",\"type\":\"stream\",\"title\":\"ビバリウム - Vivarium\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/YvYii6dluM8/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3m1M-2kEp4yyPclqT0JYcozGKNzTw&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Ado\",\"uploaderUrl\":\"/channel/UC5DHwv9N4OQ9AWt"
         }
       ],
@@ -82,10 +82,10 @@
         "search_success_rate": 1,
         "combined_success_rate": 1,
         "avg_suggestion_ms": 176,
-        "avg_search_ms": 433,
-        "combined_latency_ms": 609
+        "avg_search_ms": 417,
+        "combined_latency_ms": 593
       },
-      "checked_at": "2026-04-25T23:08:08.436Z",
+      "checked_at": "2026-04-26T00:05:50.507Z",
       "version": "2026.0.0",
       "isLatest": true
     }
