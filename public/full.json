@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T15:34:31.920Z",
+  "generated_at": "2026-05-01T17:06:10.265Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,68 +11,68 @@
       "suggestions": [
         {
           "kind": "suggest",
+          "term": "Never Gonna Give You Up",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 192,
+          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up piano\",\"never gonna give you up 10 hours\",\"never gonna give you up remix\",\"never gonna give you up instrumental\",\"never gonna give you up meme\",\"never gonna give y"
+        },
+        {
+          "kind": "suggest",
+          "term": "ado",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 188,
+          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adore you miley cyrus\",\"adopt me trading\",\"adopt me house build\",\"adom tv live\",\"adom fm 106.3 live\",\"adorable adventures\",\"adolf hitler\",\"adopt me admin abuse\",\"adolf silva rampage crash\",\"adolescence reaction\"]"
+        },
+        {
+          "kind": "suggest",
           "term": "erika",
           "path": "/suggestions",
           "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 170,
-          "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika kirk interview\",\"erika kirk podcast\",\"erika song\",\"erika diane\",\"erika kirk jd vance\",\"erika kirk charlie kirk show\",\"erika i don't know\",\"erika kirk entrance\",\"erika kirk breathing\",\"erika isac\",\"erika remix\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "союз советский социалистических республик",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 257,
-          "body_sample": "[\"cccp national anthem 1977\",\"soviet anthem belarus\",\"советский гимн 1944\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "rick astley",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 169,
-          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley the smiths\",\"rick astley together forever\",\"rick astley cry for help\",\"rick astley songs\",\"rick astley karaoke\",\"rick astley foo fighters\",\"rick astley never gonna give you up lyrics\",\"rick astley waiting on you\",\"rick astl"
+          "time_ms": 192,
+          "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika kirk interview\",\"erika kirk podcast\",\"erika song\",\"erika diane\",\"erika kirk jd vance\",\"erika i don't know\",\"erika kirk charlie kirk show\",\"erika kirk breathing\",\"erika kirk entrance\",\"erika isac\",\"erika remix\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "rick astley",
+          "term": "erika",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 930,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDRxusbm2_TGTnDWEIhBTYW2cUQkw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\""
-        },
-        {
-          "kind": "search",
-          "term": "erika",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 532,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=z9sXQXcj83s\",\"type\":\"stream\",\"title\":\"Erika (Auf der Heide blüht ein kleines Techno edit)\",\"thumbnail\":\"https://proxy.piped.private.coffee/O2il0U5cxbZi6twvz1rUcU7CiPo8QNCZCHTJYErWCcS3Hguc582TE8y11VGZmT0sHs6U7O0wo9CadVc2=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"DerSchie"
+          "time_ms": 812,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/hq720.jpg?host=i.ytimg.com&rs=AOn4CLCmbbpjVVcUGF9CYtKwhd3SrVsxzg&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"FederalBruv\",\"u"
         },
         {
           "kind": "search",
           "term": "iris out",
-          "filter": "music_videos",
+          "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 605,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmZD-TU96q4/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3k5RltzYfug575ZJLL7LqgbEi3pEg&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-aW"
+          "time_ms": 471,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Cb0JZhdmjtg\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/VGf2lFXKQdSyrz2g3Czj66doPtUxvJBrWDK6UFeOj8zRqS-tgs_D8FG5-8pYTX-Uh9FxZBDJIXtN1nKF=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-"
+        },
+        {
+          "kind": "search",
+          "term": "imagine dragons",
+          "filter": "music_videos",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=music_videos",
+          "ok": true,
+          "status": 200,
+          "time_ms": 695,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LzInU71ljJQ\",\"type\":\"stream\",\"title\":\"Imagine Dragons Playlist 2024 - Best songs - Top 10 GREATEST HITS SONGS - Best of Imagine Dragons\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LzInU71ljJQ/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3nkoP-UfTKTRwJw-zFyoU0-uCVMSw&sqp=-oaymwEWCJADEOEBIAQq"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 199,
-        "avg_search_ms": 689,
-        "combined_latency_ms": 888
+        "avg_suggestion_ms": 191,
+        "avg_search_ms": 659,
+        "combined_latency_ms": 850
       },
-      "checked_at": "2026-05-01T15:34:22.728Z",
+      "checked_at": "2026-05-01T17:06:01.023Z",
       "version": "2026.0.0",
       "isLatest": true
     }
