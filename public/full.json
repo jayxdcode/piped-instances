@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T21:52:32.642Z",
+  "generated_at": "2026-05-02T22:53:44.511Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,23 +11,23 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "союз советский социалистических республик",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 276,
-          "body_sample": "[\"cccp national anthem 1977\",\"soviet anthem belarus\",\"soviet national anthem 1977\"]"
-        },
-        {
-          "kind": "suggest",
           "term": "erika",
           "path": "/suggestions",
           "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 216,
-          "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika kirk podcast\",\"erika kirk interview\",\"erika song\",\"erika diane\",\"erika kirk jd vance\",\"erika kirk stare\",\"erika i don't know\",\"erika kirk druski\",\"erika jayne\",\"erika isac\",\"erika eleniak\"]"
+          "time_ms": 198,
+          "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika kirk podcast\",\"erika kirk interview\",\"erika song\",\"erika diane\",\"erika kirk jd vance\",\"erika kirk stare\",\"erika i don't know\",\"erika remix\",\"erika kirk druski\",\"erika isac\",\"erika jayne\"]"
+        },
+        {
+          "kind": "suggest",
+          "term": "Never Gonna Give You Up",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 202,
+          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up piano\",\"never gonna give you up live\",\"never gonna give you up remix\",\"never gonna give you up meme\",\"never gonna give you up vo"
         },
         {
           "kind": "suggest",
@@ -36,43 +36,43 @@
           "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 214,
-          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley the smiths\",\"rick astley raindrops\",\"rick astley live\",\"rick astley together forever\",\"rick astley reaction\",\"rick astley waiting on you\",\"rick astley cry for help\",\"rick astley songs\",\"rick astley she wants to dance with m"
+          "time_ms": 192,
+          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley the smiths\",\"rick astley raindrops\",\"rick astley live\",\"rick astley together forever\",\"rick astley waiting on you\",\"rick astley reaction\",\"rick astley cry for help\",\"rick astley she wants to dance with me\",\"rick astley song"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "Never Gonna Give You Up",
+          "term": "ado",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=Never%20Gonna%20Give%20You%20Up&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=ado&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 667,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDRxusbm2_TGTnDWEIhBTYW2cUQkw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\""
+          "time_ms": 724,
+          "body_sample": "{\"items\":[{\"url\":\"/channel/UCln9P4Qm3-EAY4aiEPmRwEA\",\"type\":\"channel\",\"name\":\"Ado\",\"thumbnail\":\"https://proxy.piped.private.coffee/BKpE74RwbPJ8zLaad9Y2XoX7SmIEsoma1KB8dNzwtWwiOqgTNnYI_guEP1iAaTBrdk4nHakx=s176-c-k-c0x00ffffff-no-rw-mo?host=yt3.googleusercontent.com\",\"description\":\"元気です。\",\"subscribers\":9190000,\"videos\":-"
         },
         {
           "kind": "search",
-          "term": "ado",
+          "term": "союз советский социалистических республик",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=ado&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 482,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=NB94LKrLEt4\",\"type\":\"stream\",\"title\":\"おどるポンポコリン - Odoru Ponpokorin\",\"thumbnail\":\"https://proxy.piped.private.coffee/g7luv0CqyFqDZjgrhi7pAtKj_OWMk_DW_yofSjYbMIi26HY-wc1fnYjbu5V2G12aOci8F0x4aACIngDowQ=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Ado\",\"uploaderUrl\":\"/channel/"
+          "time_ms": 442,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=MQdi8IaMavs\",\"type\":\"stream\",\"title\":\"Советский Союз\",\"thumbnail\":\"https://proxy.piped.private.coffee/f81v6cACy8KRfL9LBNdt9KI7zaC77j7ufmrpcu7rZiskRSADW3i-FsqPlZgSbVZff8wbDD7Br85-Z2fj=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Керсари\",\"uploaderUrl\":\"/channel/UCNwUCEhpFDS"
         },
         {
           "kind": "search",
-          "term": "imagine dragons",
+          "term": "iris out",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 533,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LzInU71ljJQ\",\"type\":\"stream\",\"title\":\"Imagine Dragons Playlist 2024 - Best songs - Top 10 GREATEST HITS SONGS - Best of Imagine Dragons\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LzInU71ljJQ/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3nkoP-UfTKTRwJw-zFyoU0-uCVMSw&sqp=-oaymwEWCJADEOEBIAQq"
+          "time_ms": 469,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmZD-TU96q4/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3k5RltzYfug575ZJLL7LqgbEi3pEg&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-aW"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 235,
-        "avg_search_ms": 561,
-        "combined_latency_ms": 796
+        "avg_suggestion_ms": 197,
+        "avg_search_ms": 545,
+        "combined_latency_ms": 742
       },
-      "checked_at": "2026-05-02T21:52:23.224Z",
+      "checked_at": "2026-05-02T22:53:34.788Z",
       "version": "2026.0.0",
       "isLatest": true
     }
