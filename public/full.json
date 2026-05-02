@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T11:55:11.493Z",
+  "generated_at": "2026-05-02T13:39:00.791Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,23 +11,13 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "ado",
+          "term": "imagine dragons",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 218,
-          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adopt me house build\",\"adopt me trading\",\"adore you miley cyrus\",\"adom tv live\",\"adolf hitler\",\"adoration live\",\"adorn miguel\",\"adopt me admin abuse\",\"adolf silva rampage crash\",\"adolescence reaction\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "iris out",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 222,
-          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out english\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out instrumental\"]"
+          "time_ms": 205,
+          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons sia\",\"imagine dragons playlist\",\"imagine dragons live\",\"imagine dragons bones\",\"imagine dragons reaction\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad "
         },
         {
           "kind": "suggest",
@@ -36,43 +26,53 @@
           "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 222,
+          "time_ms": 215,
           "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up piano\",\"never gonna give you up live\",\"never gonna give you up remix\",\"never gonna give you up meme\",\"never gonna give you up ba"
+        },
+        {
+          "kind": "suggest",
+          "term": "erika",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 214,
+          "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika kirk podcast\",\"erika kirk interview\",\"erika song\",\"erika diane\",\"erika kirk jd vance\",\"erika i don't know\",\"erika kirk stare\",\"erika eleniak\",\"erika jayne\",\"erika isac\",\"erika kirk entrance\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "rick astley",
+          "term": "iris out",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 681,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDRxusbm2_TGTnDWEIhBTYW2cUQkw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\""
-        },
-        {
-          "kind": "search",
-          "term": "iris out",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 501,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Cb0JZhdmjtg\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/VGf2lFXKQdSyrz2g3Czj66doPtUxvJBrWDK6UFeOj8zRqS-tgs_D8FG5-8pYTX-Uh9FxZBDJIXtN1nKF=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-"
+          "time_ms": 766,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"Kenshi Yonezu - IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmZD-TU96q4/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAjXMjvAckioBpWT-ksz16_e8ugtA&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Kenshi Yonezu  米津玄師\",\"uploa"
         },
         {
           "kind": "search",
           "term": "erika",
-          "filter": "music_videos",
+          "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 498,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lIGnsH9TVSUWCxejmdJwpg9IzFbg&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"FederalBruv\",\"uploaderUrl"
+          "time_ms": 531,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Sgeg6lmIhDs\",\"type\":\"stream\",\"title\":\"Melo De Erika Silva\",\"thumbnail\":\"https://proxy.piped.private.coffee/54SNZbzXDsb91XxML4gNaV-uYn2o7wv8htc29ROehzdV1edxSZSrXljycsZr2Go1YbfB60G3xEBKZChy=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"DJ Sujeitinha\",\"uploaderUrl\":\"/channel/U"
+        },
+        {
+          "kind": "search",
+          "term": "imagine dragons",
+          "filter": "music_videos",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=music_videos",
+          "ok": true,
+          "status": 200,
+          "time_ms": 597,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=7wtfhZwyrcc\",\"type\":\"stream\",\"title\":\"Believer\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/7wtfhZwyrcc/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3nGGyfjccSVPBlC9qYZcv9WMwo9sQ&sqp=-oaymwEWCOADEI4CIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"Imagine Dragons\",\"uploaderUrl\":\"/channel/UC0aXrjVxG5p"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 221,
-        "avg_search_ms": 560,
-        "combined_latency_ms": 781
+        "avg_suggestion_ms": 211,
+        "avg_search_ms": 631,
+        "combined_latency_ms": 842
       },
-      "checked_at": "2026-05-02T11:55:02.098Z",
+      "checked_at": "2026-05-02T13:38:51.432Z",
       "version": "2026.0.0",
       "isLatest": true
     }
