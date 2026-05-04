@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T20:04:25.718Z",
+  "generated_at": "2026-05-04T21:41:07.035Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,23 +11,23 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "Never Gonna Give You Up",
+          "term": "iris out",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 203,
-          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up japanese\",\"never gonna give you up 10 hours\",\"never gonna give you up remix\",\"never gonna give you up piano\",\"never gonna give you up barry white\",\"never gonna giv"
+          "time_ms": 236,
+          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\",\"iris out instrumental\"]"
         },
         {
           "kind": "suggest",
-          "term": "imagine dragons",
+          "term": "erika",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 206,
-          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons live\",\"imagine dragons radioactive\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons sia\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons what"
+          "time_ms": 223,
+          "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika kirk podcast\",\"erika kirk jd vance\",\"erika kirk interview\",\"erika song\",\"erika diane\",\"erika jayne\",\"erika i don't know\",\"erika remix\",\"erika isac\",\"erika kirk druski\",\"erika kirk entrance\"]"
         },
         {
           "kind": "suggest",
@@ -36,43 +36,43 @@
           "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 205,
+          "time_ms": 253,
           "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley the smiths\",\"rick astley together forever\",\"rick astley foo fighters\",\"rick astley karaoke\",\"rick astley songs\",\"rick astley cry for help\",\"rick astley never gonna give you up lyrics\",\"rick astley take me to your heart\",\"ri"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "союз советский социалистических республик",
+          "term": "erika",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 711,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=CZxLjc7Y50g\",\"type\":\"stream\",\"title\":\"Soviet Union - History on the Map\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/CZxLjc7Y50g/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDl7SMhKGVl8FS_2r1mqi0x0rAw0Q&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Гео-История\",\"uplo"
+          "time_ms": 906,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/hq720.jpg?host=i.ytimg.com&rs=AOn4CLCmbbpjVVcUGF9CYtKwhd3SrVsxzg&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"FederalBruv\",\"u"
+        },
+        {
+          "kind": "search",
+          "term": "союз советский социалистических республик",
+          "filter": "music_songs",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_songs",
+          "ok": true,
+          "status": 200,
+          "time_ms": 619,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=MQdi8IaMavs\",\"type\":\"stream\",\"title\":\"Советский Союз\",\"thumbnail\":\"https://proxy.piped.private.coffee/f81v6cACy8KRfL9LBNdt9KI7zaC77j7ufmrpcu7rZiskRSADW3i-FsqPlZgSbVZff8wbDD7Br85-Z2fj=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Керсари\",\"uploaderUrl\":\"/channel/UCNwUCEhpFDS"
         },
         {
           "kind": "search",
           "term": "imagine dragons",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 584,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Kx7B-XvmFtE\",\"type\":\"stream\",\"title\":\"Believer\",\"thumbnail\":\"https://proxy.piped.private.coffee/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA=w120-h120-l90-rw?host=lh3.googleusercontent.com\",\"uploaderName\":\"Imagine Dragons\",\"uploaderUrl\":\"/channel/UC0aXrjV"
-        },
-        {
-          "kind": "search",
-          "term": "Never Gonna Give You Up",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 646,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lNNudXg7f4Qf7PiE9tvCAkHTjJ0w&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/U"
+          "time_ms": 505,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LzInU71ljJQ\",\"type\":\"stream\",\"title\":\"Imagine Dragons Playlist 2024 - Best songs - Top 10 GREATEST HITS SONGS - Best of Imagine Dragons\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LzInU71ljJQ/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3nkoP-UfTKTRwJw-zFyoU0-uCVMSw&sqp=-oaymwEWCJADEOEBIAQq"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 205,
-        "avg_search_ms": 647,
-        "combined_latency_ms": 852
+        "avg_suggestion_ms": 237,
+        "avg_search_ms": 677,
+        "combined_latency_ms": 914
       },
-      "checked_at": "2026-05-04T20:04:16.644Z",
+      "checked_at": "2026-05-04T21:40:58.098Z",
       "version": "2026.0.0",
       "isLatest": true
     }
