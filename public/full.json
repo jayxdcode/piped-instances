@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T11:00:31.028Z",
+  "generated_at": "2026-05-12T13:10:35.204Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,23 +11,23 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "iris out",
+          "term": "erika",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 235,
-          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\",\"iris out instrumental\"]"
+          "time_ms": 173,
+          "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika kirk jd vance\",\"erika kirk interview\",\"erika diane\",\"erika song\",\"erika i don't know\",\"erika isac\",\"erika remix\",\"erika piano\",\"erika vikman\",\"erika costell\",\"erika kirk druski\"]"
         },
         {
           "kind": "suggest",
-          "term": "ado",
+          "term": "imagine dragons",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 263,
-          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adom tv live\",\"adopt me house build\",\"adom fm 106.3 live\",\"adore you miley cyrus\",\"adopt me trading\",\"adolf hitler\",\"adoration live\",\"adopt me admin abuse\",\"adolf silva rampage crash\",\"adolescence reaction\"]"
+          "time_ms": 179,
+          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons live\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons sia\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons what"
         },
         {
           "kind": "suggest",
@@ -36,43 +36,43 @@
           "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 226,
-          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up japanese\",\"never gonna give you up anime\",\"never gonna give you up piano\",\"never gonna give you up remix\",\"never gonna give you "
+          "time_ms": 171,
+          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up japanese\",\"never gonna give you up piano\",\"never gonna give you up instrumental\",\"never gonna give you up remix\",\"never gonna gi"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "ado",
+          "term": "imagine dragons",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=ado&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 764,
-          "body_sample": "{\"items\":[{\"url\":\"/channel/UCln9P4Qm3-EAY4aiEPmRwEA\",\"type\":\"channel\",\"name\":\"Ado\",\"thumbnail\":\"https://proxy.piped.private.coffee/BKpE74RwbPJ8zLaad9Y2XoX7SmIEsoma1KB8dNzwtWwiOqgTNnYI_guEP1iAaTBrdk4nHakx=s176-c-k-c0x00ffffff-no-rw-mo?host=yt3.googleusercontent.com\",\"description\":\"元気です。\",\"subscribers\":9210000,\"videos\":-"
-        },
-        {
-          "kind": "search",
-          "term": "erika",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 491,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=z9sXQXcj83s\",\"type\":\"stream\",\"title\":\"Erika (Auf der Heide blüht ein kleines Techno edit)\",\"thumbnail\":\"https://proxy.piped.private.coffee/O2il0U5cxbZi6twvz1rUcU7CiPo8QNCZCHTJYErWCcS3Hguc582TE8y11VGZmT0sHs6U7O0wo9CadVc2=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"DerSchie"
+          "time_ms": 696,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=7wtfhZwyrcc\",\"type\":\"stream\",\"title\":\"Imagine Dragons - Believer (Official Music Video)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/7wtfhZwyrcc/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAorFfrZXwv_HMuWFY58OGUgd0r5Q&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Im"
         },
         {
           "kind": "search",
           "term": "rick astley",
-          "filter": "music_videos",
+          "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 498,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lNNudXg7f4Qf7PiE9tvCAkHTjJ0w&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/U"
+          "time_ms": 411,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=lYBUbBu4W08\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/eC9DfRcYSk4FE-fvDCJSu_4xsKdVMKxwmFTYFZwP8OqB7R4TKxAjKoR-Kp1lXeRi2WddPFYulSte4eW-=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel"
+        },
+        {
+          "kind": "search",
+          "term": "erika",
+          "filter": "music_videos",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_videos",
+          "ok": true,
+          "status": 200,
+          "time_ms": 467,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lIGnsH9TVSUWCxejmdJwpg9IzFbg&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"FederalBruv\",\"uploaderUrl"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 241,
-        "avg_search_ms": 584,
-        "combined_latency_ms": 825
+        "avg_suggestion_ms": 174,
+        "avg_search_ms": 525,
+        "combined_latency_ms": 699
       },
-      "checked_at": "2026-05-12T11:00:21.070Z",
+      "checked_at": "2026-05-12T13:10:24.775Z",
       "version": "2026.0.0",
       "isLatest": true
     }
