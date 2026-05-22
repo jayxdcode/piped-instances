@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T07:59:45.355Z",
+  "generated_at": "2026-05-22T11:13:56.042Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,57 +11,57 @@
       "suggestions": [
         {
           "kind": "suggest",
+          "term": "rick astley",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 187,
+          "body_sample": "[\"rick astley never gonna give you up\",\"rick astley\",\"rick astley glastonbury 2023\",\"rick astley together forever\",\"rick astley the smiths\",\"rick astley live\",\"rick astley songs\",\"rick astley foo fighters\",\"rick astley cry for help\",\"rick astley never gonna give you up lyrics\",\"rick astley take me to your heart\",\"rick "
+        },
+        {
+          "kind": "suggest",
+          "term": "ado",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 189,
+          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"adonay youtube\",\"ado\",\"adom tv live\",\"adore you miley cyrus\",\"adom fm 106.3 live\",\"adopt me trading\",\"adopt me house build\",\"adonay\",\"adopt me channel\",\"adolf hitler\",\"adoration live\"]"
+        },
+        {
+          "kind": "suggest",
           "term": "союз советский социалистических республик",
           "path": "/suggestions",
           "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 251,
+          "time_ms": 278,
           "body_sample": "[\"cccp national anthem 1977\",\"soviet anthem belarus\",\"soviet national anthem 1977\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "erika",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 172,
-          "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika jayne\",\"erika kirk jd vance\",\"erika kirk interview\",\"erika song\",\"erika diane\",\"erika i don't know\",\"erika isac\",\"erika vikman\",\"erika remix\",\"erika piano\",\"erika costell\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "Never Gonna Give You Up",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 168,
-          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up piano\",\"never gonna give you up remix\",\"never gonna give you up meme\",\"never gonna give you up voice crack\",\"never gonna give yo"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "erika",
+          "term": "rick astley",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=erika&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 586,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/hq720.jpg?host=i.ytimg.com&rs=AOn4CLCmbbpjVVcUGF9CYtKwhd3SrVsxzg&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"FederalBruv\",\"u"
+          "time_ms": 716,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDRxusbm2_TGTnDWEIhBTYW2cUQkw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\""
         },
         {
           "kind": "search",
-          "term": "ado",
+          "term": "erika",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=ado&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 449,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=83zmIfIiNWc\",\"type\":\"stream\",\"title\":\"アイ・アイ・ア - AiAiA\",\"thumbnail\":\"https://proxy.piped.private.coffee/Jhmmt_rFUzkjzYB_emkkfM2zdM05INWlf_bkhiq-FZLN6Ra8M8UCdPuPEjklTFOAnHk15UBr74AUhn0T=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Ado\",\"uploaderUrl\":\"/channel/UC5DHwv9N4OQ9AW"
+          "time_ms": 497,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=z9sXQXcj83s\",\"type\":\"stream\",\"title\":\"Erika (Auf der Heide blüht ein kleines Techno edit)\",\"thumbnail\":\"https://proxy.piped.private.coffee/O2il0U5cxbZi6twvz1rUcU7CiPo8QNCZCHTJYErWCcS3Hguc582TE8y11VGZmT0sHs6U7O0wo9CadVc2=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"DerSchie"
         },
         {
           "kind": "search",
@@ -71,8 +71,8 @@
           "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 441,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=gmeKoM9Y50w\",\"type\":\"stream\",\"title\":\"СССР РАСПАЛСЯ В 1991 ГОДА ПАМЯТЬ СОЮЗ СОВЕТСКИХ СОЦИАЛИСТИЧЕСКИХ РЕСПУБЛИК \\uD83E\\uDD40\\uD83E\\uDD40\\uD83E\\uDD40\\uD83E\\uDD40\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/gmeKoM9Y50w/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3l0-gX5eYU7LkOi-ZKTk65RxrYz0"
+          "time_ms": 548,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=-8gySW7duCU\",\"type\":\"stream\",\"title\":\"Гимн СССР (1983)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/-8gySW7duCU/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3nbFlf8cejPsoKD-BFS5HH3ii9ikw&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Музыка на советском телевидении\",\"uploaderUrl"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 197,
-        "avg_search_ms": 492,
-        "combined_latency_ms": 689
+        "avg_suggestion_ms": 218,
+        "avg_search_ms": 587,
+        "combined_latency_ms": 805
       },
-      "checked_at": "2026-05-22T07:59:35.317Z",
+      "checked_at": "2026-05-22T11:13:46.921Z",
       "version": "2026.0.0",
       "isLatest": true
     },
@@ -97,12 +97,22 @@
       "suggestions": [
         {
           "kind": "suggest",
+          "term": "Never Gonna Give You Up",
+          "path": "/suggestions",
+          "url": "https://pipedapi.orangenet.cc/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 508,
+          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
+        },
+        {
+          "kind": "suggest",
           "term": "ado",
           "path": "/suggestions",
           "url": "https://pipedapi.orangenet.cc/suggestions?query=ado&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 407,
+          "time_ms": 155,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
@@ -112,41 +122,31 @@
           "url": "https://pipedapi.orangenet.cc/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 138,
-          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
-        },
-        {
-          "kind": "suggest",
-          "term": "iris out",
-          "path": "/suggestions",
-          "url": "https://pipedapi.orangenet.cc/suggestions?query=iris%20out&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 138,
+          "time_ms": 158,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "rick astley",
+          "term": "iris out",
           "filter": "all",
           "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=rick%20astley&filter=all",
+          "url": "https://pipedapi.orangenet.cc/search?q=iris%20out&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 136,
+          "time_ms": 225,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
           "kind": "search",
-          "term": "ado",
+          "term": "союз советский социалистических республик",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=ado&filter=music_songs",
+          "url": "https://pipedapi.orangenet.cc/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 205,
+          "time_ms": 158,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
@@ -157,7 +157,7 @@
           "url": "https://pipedapi.orangenet.cc/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 136,
+          "time_ms": 157,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         }
       ],
@@ -167,11 +167,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 228,
-        "avg_search_ms": 159,
-        "combined_latency_ms": 387
+        "avg_suggestion_ms": 274,
+        "avg_search_ms": 180,
+        "combined_latency_ms": 454
       },
-      "checked_at": "2026-05-22T07:59:34.528Z",
+      "checked_at": "2026-05-22T11:13:45.957Z",
       "version": "0.0.0",
       "isLatest": false
     }
