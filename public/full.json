@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T11:51:06.333Z",
+  "generated_at": "2026-05-24T13:51:40.431Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,68 +11,68 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "iris out",
+          "term": "imagine dragons",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 167,
-          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out piano\",\"iris out reaction\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out chainsaw man\",\"iris out live\",\"iris out opening\",\"iris out english\",\"iris out instrumental\"]"
+          "time_ms": 172,
+          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons sia\",\"imagine dragons live\",\"imagine dragons radioactive\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons what"
         },
         {
           "kind": "suggest",
-          "term": "rick astley",
+          "term": "ado",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 171,
-          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley the smiths\",\"rick astley together forever\",\"rick astley cry for help\",\"rick astley live\",\"rick astley foo fighters\",\"rick astley songs\",\"rick astley she wants to dance with me\",\"rick astley never gonna give you up lyrics\",\""
+          "time_ms": 176,
+          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adopt me trading\",\"adolescence interrogation scene\",\"adore you miley cyrus\",\"adopt me house build\",\"adopt me live\",\"adonay youtube\",\"adom tv live\",\"adolf hitler\",\"adopt me admin abuse\",\"adot comedian\"]"
         },
         {
           "kind": "suggest",
-          "term": "erika",
+          "term": "союз советский социалистических республик",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 167,
-          "body_sample": "[\"erika kirk\",\"erika german song\",\"erika kirk speech\",\"erika kirk jd vance\",\"erika kirk interview\",\"erika diane\",\"erika song\",\"erika i don't know\",\"erika remix\",\"erika isac\",\"erika vikman\",\"erika piano\",\"erika jayne\",\"erika costell\"]"
+          "time_ms": 263,
+          "body_sample": "[\"cccp national anthem 1977\",\"soviet anthem belarus\",\"soviet national anthem 1977\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "rick astley",
+          "term": "ado",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=ado&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 738,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=yPYZpwSpKmA\",\"type\":\"stream\",\"title\":\"Rick Astley - Together Forever (Official Video) [4K Remaster]\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/yPYZpwSpKmA/hq720.jpg?host=i.ytimg.com&rs=AOn4CLCfU6RJ6i8_BOSeLEVhDae9WU25Ug&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploa"
+          "time_ms": 735,
+          "body_sample": "{\"items\":[{\"url\":\"/channel/UCln9P4Qm3-EAY4aiEPmRwEA\",\"type\":\"channel\",\"name\":\"Ado\",\"thumbnail\":\"https://proxy.piped.private.coffee/BKpE74RwbPJ8zLaad9Y2XoX7SmIEsoma1KB8dNzwtWwiOqgTNnYI_guEP1iAaTBrdk4nHakx=s176-c-k-c0x00ffffff-no-rw-mo?host=yt3.googleusercontent.com\",\"description\":\"元気です。\",\"subscribers\":9240000,\"videos\":-"
         },
         {
           "kind": "search",
-          "term": "ado",
+          "term": "erika",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=ado&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 565,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=83zmIfIiNWc\",\"type\":\"stream\",\"title\":\"アイ・アイ・ア - AiAiA\",\"thumbnail\":\"https://proxy.piped.private.coffee/Jhmmt_rFUzkjzYB_emkkfM2zdM05INWlf_bkhiq-FZLN6Ra8M8UCdPuPEjklTFOAnHk15UBr74AUhn0T=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Ado\",\"uploaderUrl\":\"/channel/UC5DHwv9N4OQ9AW"
+          "time_ms": 471,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=BoIWpfdgwcc\",\"type\":\"stream\",\"title\":\"Erika Show Them No Mercy\",\"thumbnail\":\"https://proxy.piped.private.coffee/tHxstItpMUhM3l4hJjxam-rQ7h47wiCP7ErXJ0TOIUgaNfPexL9f1DVBPctAMmn0eH8S0YJMxfcYiaXZ0Q=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"LaMasque\",\"uploaderUrl\":\"/channel"
         },
         {
           "kind": "search",
-          "term": "iris out",
+          "term": "rick astley",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 682,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmZD-TU96q4/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3k5RltzYfug575ZJLL7LqgbEi3pEg&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-aW"
+          "time_ms": 453,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/sddefault.jpg?host=i.ytimg.com&rs=AMzJL3lNNudXg7f4Qf7PiE9tvCAkHTjJ0w&sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/U"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 168,
-        "avg_search_ms": 662,
-        "combined_latency_ms": 830
+        "avg_suggestion_ms": 204,
+        "avg_search_ms": 553,
+        "combined_latency_ms": 757
       },
-      "checked_at": "2026-05-24T11:50:56.695Z",
+      "checked_at": "2026-05-24T13:51:30.872Z",
       "version": "2026.0.0",
       "isLatest": true
     },
@@ -102,7 +102,7 @@
           "url": "https://pipedapi.orangenet.cc/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 401,
+          "time_ms": 355,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
@@ -112,52 +112,52 @@
           "url": "https://pipedapi.orangenet.cc/suggestions?query=ado&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 137,
+          "time_ms": 116,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
           "kind": "suggest",
-          "term": "iris out",
+          "term": "rick astley",
           "path": "/suggestions",
-          "url": "https://pipedapi.orangenet.cc/suggestions?query=iris%20out&music=true",
+          "url": "https://pipedapi.orangenet.cc/suggestions?query=rick%20astley&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 137,
+          "time_ms": 120,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "rick astley",
+          "term": "imagine dragons",
           "filter": "all",
           "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=rick%20astley&filter=all",
+          "url": "https://pipedapi.orangenet.cc/search?q=imagine%20dragons&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 137,
+          "time_ms": 120,
+          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
+        },
+        {
+          "kind": "search",
+          "term": "Never Gonna Give You Up",
+          "filter": "music_songs",
+          "path": "/search",
+          "url": "https://pipedapi.orangenet.cc/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_songs",
+          "ok": true,
+          "status": 200,
+          "time_ms": 184,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
           "kind": "search",
           "term": "erika",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=erika&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 226,
-          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
-        },
-        {
-          "kind": "search",
-          "term": "союз советский социалистических республик",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_videos",
+          "url": "https://pipedapi.orangenet.cc/search?q=erika&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 135,
+          "time_ms": 119,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         }
       ],
@@ -167,11 +167,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 225,
-        "avg_search_ms": 166,
-        "combined_latency_ms": 391
+        "avg_suggestion_ms": 197,
+        "avg_search_ms": 141,
+        "combined_latency_ms": 338
       },
-      "checked_at": "2026-05-24T11:50:55.462Z",
+      "checked_at": "2026-05-24T13:51:29.634Z",
       "version": "0.0.0",
       "isLatest": false
     }
