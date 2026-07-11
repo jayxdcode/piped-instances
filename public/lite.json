@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T21:24:57.513Z",
+  "generated_at": "2026-07-11T22:25:31.212Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -14,11 +14,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 242,
-        "avg_search_ms": 720,
-        "combined_latency_ms": 962
+        "avg_suggestion_ms": 236,
+        "avg_search_ms": 531,
+        "combined_latency_ms": 767
       },
-      "checked_at": "2026-07-11T21:24:48.808Z",
+      "checked_at": "2026-07-11T22:25:21.931Z",
       "version": "2026.0.0",
       "isLatest": true
     },
@@ -33,11 +33,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 349,
-        "avg_search_ms": 180,
-        "combined_latency_ms": 529
+        "avg_suggestion_ms": 282,
+        "avg_search_ms": 192,
+        "combined_latency_ms": 474
       },
-      "checked_at": "2026-07-11T21:24:47.560Z",
+      "checked_at": "2026-07-11T22:25:21.295Z",
       "version": "0.0.0",
       "isLatest": false
     }
