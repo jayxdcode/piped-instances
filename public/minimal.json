@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T15:02:22.652Z",
+  "generated_at": "2026-07-18T16:29:05.111Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -8,7 +8,7 @@
       "api_url": "https://pipedapi.orangenet.cc",
       "cdn": "No",
       "raw": "orangenet.cc | https://pipedapi.orangenet.cc | 🇸🇮 | No | ![](https://pipedapi.orangenet.cc/registered/badge)",
-      "checked_at": "2026-07-18T15:02:12.306Z",
+      "checked_at": "2026-07-18T16:28:54.982Z",
       "version": "0.0.0",
       "isLatest": false
     }
