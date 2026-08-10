@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:14:49.119Z",
+  "generated_at": "2026-08-10T05:57:11.608Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -11,13 +11,23 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "союз советский социалистических республик",
+          "term": "ado",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 183,
-          "body_sample": "[\"cccp national anthem 1977\",\"советский гимн 1944\",\"soviet anthem belarus\"]"
+          "time_ms": 606,
+          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adopt me house build\",\"adopt me trading\",\"adore you miley cyrus\",\"adolf silva\",\"adolf hitler\",\"adopt me admin abuse\",\"adolf silva rampage crash\",\"adolescence reaction\",\"adoration live\",\"adonai nathaniel bassey\"]"
+        },
+        {
+          "kind": "suggest",
+          "term": "imagine dragons",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 209,
+          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons live\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons whatever it takes\",\"imagin"
         },
         {
           "kind": "suggest",
@@ -26,53 +36,43 @@
           "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 172,
+          "time_ms": 230,
           "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\",\"iris out karaoke\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "rick astley",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 186,
-          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley glastonbury 2023\",\"rick astley together forever\",\"rick astley the smiths\",\"rick astley foo fighters\",\"rick astley songs\",\"rick astley live\",\"rick astley cry for help\",\"rick astley never gonna give you up lyrics\",\"rick astley take me to your heart\",\"rick "
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "imagine dragons",
+          "term": "ado",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=ado&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 804,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=7PCwhYb3_rM\",\"type\":\"stream\",\"title\":\"Imagine Dragons Greatest Hits Full Album \\uD83D\\uDD25 Top 10 Songs Collection 2026 \\uD83C\\uDFB6 Demons, Believer, Thunder\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/7PCwhYb3_rM/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDxN_d_5sUNYqmOXbkmWb3mUxydXg&sqp="
+          "time_ms": 719,
+          "body_sample": "{\"items\":[{\"url\":\"/channel/UCln9P4Qm3-EAY4aiEPmRwEA\",\"type\":\"channel\",\"name\":\"Ado\",\"thumbnail\":\"https://proxy.piped.private.coffee/BKpE74RwbPJ8zLaad9Y2XoX7SmIEsoma1KB8dNzwtWwiOqgTNnYI_guEP1iAaTBrdk4nHakx=s176-c-k-c0x00ffffff-no-rw-mo?host=yt3.googleusercontent.com\",\"description\":\"元気です。\",\"subscribers\":9440000,\"videos\":-"
         },
         {
           "kind": "search",
-          "term": "rick astley",
+          "term": "erika",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 398,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=lYBUbBu4W08\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/eC9DfRcYSk4FE-fvDCJSu_4xsKdVMKxwmFTYFZwP8OqB7R4TKxAjKoR-Kp1lXeRi2WddPFYulSte4eW-=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel"
+          "time_ms": 462,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=qZp4jMQOyoI\",\"type\":\"stream\",\"title\":\"Szerelemre születtem\",\"thumbnail\":\"https://proxy.piped.private.coffee/DY-tk67yrIGux3FE_AtqiL_yyOZhsXcsLPlpwVe8uvLw60LvTFjD9RuLeKmn0DrQTqNS-yAPC_kpyzlGtA=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Zoltán Erika\",\"uploaderUrl\":\"/channel"
         },
         {
           "kind": "search",
-          "term": "ado",
+          "term": "Never Gonna Give You Up",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=ado&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 405,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=4IKHox-DKrM\",\"type\":\"stream\",\"title\":\"【Ado】モンストロ\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/4IKHox-DKrM/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3mOcnHaRKP9K5cjNovSOFU2iOJs1Q&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"Ado\",\"uploaderUrl\":null,\"uploaderAvatar\":null,\"uplo"
+          "time_ms": 548,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3lrEQLVd7aUH6RTaLjc4JkVVNINHQ&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/U"
         }
       ],
       "metrics": {
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 180,
-        "avg_search_ms": 536,
-        "combined_latency_ms": 716
+        "avg_suggestion_ms": 348,
+        "avg_search_ms": 576,
+        "combined_latency_ms": 924
       },
-      "checked_at": "2026-08-10T04:14:39.477Z",
+      "checked_at": "2026-08-10T05:57:07.914Z",
       "version": "2026.0.0",
       "isLatest": true
     },
@@ -97,67 +97,67 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "imagine dragons",
-          "path": "/suggestions",
-          "url": "https://pipedapi.orangenet.cc/suggestions?query=imagine%20dragons&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 353,
-          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
-        },
-        {
-          "kind": "suggest",
-          "term": "союз советский социалистических республик",
-          "path": "/suggestions",
-          "url": "https://pipedapi.orangenet.cc/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 123,
-          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
-        },
-        {
-          "kind": "suggest",
           "term": "erika",
           "path": "/suggestions",
           "url": "https://pipedapi.orangenet.cc/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 121,
+          "time_ms": 729,
+          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
+        },
+        {
+          "kind": "suggest",
+          "term": "Never Gonna Give You Up",
+          "path": "/suggestions",
+          "url": "https://pipedapi.orangenet.cc/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 179,
+          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
+        },
+        {
+          "kind": "suggest",
+          "term": "iris out",
+          "path": "/suggestions",
+          "url": "https://pipedapi.orangenet.cc/suggestions?query=iris%20out&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 177,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "ado",
+          "term": "союз советский социалистических республик",
           "filter": "all",
           "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=ado&filter=all",
+          "url": "https://pipedapi.orangenet.cc/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 120,
+          "time_ms": 177,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
           "kind": "search",
-          "term": "imagine dragons",
+          "term": "Never Gonna Give You Up",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=imagine%20dragons&filter=music_songs",
+          "url": "https://pipedapi.orangenet.cc/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 204,
+          "time_ms": 178,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
           "kind": "search",
-          "term": "iris out",
+          "term": "rick astley",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=iris%20out&filter=music_videos",
+          "url": "https://pipedapi.orangenet.cc/search?q=rick%20astley&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 122,
+          "time_ms": 239,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         }
       ],
@@ -167,11 +167,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 199,
-        "avg_search_ms": 149,
-        "combined_latency_ms": 348
+        "avg_suggestion_ms": 362,
+        "avg_search_ms": 198,
+        "combined_latency_ms": 560
       },
-      "checked_at": "2026-08-10T04:14:38.535Z",
+      "checked_at": "2026-08-10T05:57:06.736Z",
       "version": "0.0.0",
       "isLatest": false
     }
