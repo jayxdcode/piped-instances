@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-08-11T22:20:56.046Z",
+  "generated_at": "2026-08-11T23:19:44.939Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
-  "version_priority": "0.0.0",
+  "version_priority": "2026.0.0",
   "instances": [
+    {
+      "name": "private.coffee",
+      "api_url": "https://api.piped.private.coffee",
+      "cdn": "No",
+      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
+      "checked_at": "2026-08-11T23:19:42.901Z",
+      "version": "2026.0.0",
+      "isLatest": true
+    },
     {
       "name": "orangenet.cc",
       "api_url": "https://pipedapi.orangenet.cc",
       "cdn": "No",
       "raw": "orangenet.cc | https://pipedapi.orangenet.cc | 🇸🇮 | No | ![](https://pipedapi.orangenet.cc/registered/badge)",
-      "checked_at": "2026-08-11T22:19:57.661Z",
+      "checked_at": "2026-08-11T23:19:43.191Z",
       "version": "0.0.0",
-      "isLatest": true
+      "isLatest": false
     }
   ]
 }
