@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-08-17T04:20:33.317Z",
+  "generated_at": "2026-08-17T05:11:13.882Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
-  "version_priority": "2026.0.0",
+  "version_priority": "59154711.0.0",
   "instances": [
+    {
+      "name": "drgns.space",
+      "api_url": "https://pipedapi.drgns.space",
+      "cdn": "No",
+      "raw": "drgns.space | https://pipedapi.drgns.space | 🇺🇸 | No | ![](https://pipedapi.drgns.space/registered/badge)",
+      "checked_at": "2026-08-17T05:11:13.882Z",
+      "version": "59154711.0.0",
+      "isLatest": true
+    },
     {
       "name": "private.coffee",
       "api_url": "https://api.piped.private.coffee",
       "cdn": "No",
       "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
-      "checked_at": "2026-08-17T04:20:31.143Z",
+      "checked_at": "2026-08-17T05:10:37.843Z",
       "version": "2026.0.0",
-      "isLatest": true
+      "isLatest": false
     },
     {
       "name": "orangenet.cc",
       "api_url": "https://pipedapi.orangenet.cc",
       "cdn": "No",
       "raw": "orangenet.cc | https://pipedapi.orangenet.cc | 🇸🇮 | No | ![](https://pipedapi.orangenet.cc/registered/badge)",
-      "checked_at": "2026-08-17T04:20:30.288Z",
+      "checked_at": "2026-08-17T05:10:37.921Z",
       "version": "0.0.0",
       "isLatest": false
     }
