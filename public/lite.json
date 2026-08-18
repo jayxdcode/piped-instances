@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:09:25.900Z",
+  "generated_at": "2026-08-18T05:03:37.032Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "59154711.0.0",
   "instances": [
@@ -10,15 +10,15 @@
       "raw": "drgns.space | https://pipedapi.drgns.space | 🇺🇸 | No | ![](https://pipedapi.drgns.space/registered/badge)",
       "metrics": {
         "suggestion_success_count": 3,
-        "search_success_count": 2,
+        "search_success_count": 3,
         "suggestion_success_rate": 1,
-        "search_success_rate": 0.6666666666666666,
-        "combined_success_rate": 0.8333333333333334,
-        "avg_suggestion_ms": 440,
-        "avg_search_ms": 496,
-        "combined_latency_ms": 936
+        "search_success_rate": 1,
+        "combined_success_rate": 1,
+        "avg_suggestion_ms": 681,
+        "avg_search_ms": 295,
+        "combined_latency_ms": 976
       },
-      "checked_at": "2026-08-18T04:09:25.899Z",
+      "checked_at": "2026-08-18T05:03:34.877Z",
       "version": "59154711.0.0",
       "isLatest": true
     },
@@ -33,11 +33,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 378,
-        "avg_search_ms": 140,
-        "combined_latency_ms": 518
+        "avg_suggestion_ms": 529,
+        "avg_search_ms": 203,
+        "combined_latency_ms": 732
       },
-      "checked_at": "2026-08-18T04:09:14.548Z",
+      "checked_at": "2026-08-18T05:03:33.392Z",
       "version": "0.0.0",
       "isLatest": false
     },
@@ -52,11 +52,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 200,
-        "avg_search_ms": 491,
-        "combined_latency_ms": 691
+        "avg_suggestion_ms": 239,
+        "avg_search_ms": 571,
+        "combined_latency_ms": 810
       },
-      "checked_at": "2026-08-18T04:09:15.130Z",
+      "checked_at": "2026-08-18T05:03:33.706Z",
       "version": "2026.0.0",
       "isLatest": false
     }
