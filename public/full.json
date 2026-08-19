@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:42:59.277Z",
+  "generated_at": "2026-08-19T03:04:23.144Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "59154711.0.0",
   "instances": [
@@ -11,67 +11,67 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "imagine dragons",
-          "path": "/suggestions",
-          "url": "https://pipedapi.drgns.space/suggestions?query=imagine%20dragons&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 736,
-          "body_sample": "\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-59154711-35\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag"
-        },
-        {
-          "kind": "suggest",
-          "term": "iris out",
-          "path": "/suggestions",
-          "url": "https://pipedapi.drgns.space/suggestions?query=iris%20out&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 631,
-          "body_sample": "\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-59154711-35\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag"
-        },
-        {
-          "kind": "suggest",
           "term": "Never Gonna Give You Up",
           "path": "/suggestions",
           "url": "https://pipedapi.drgns.space/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 1036,
+          "time_ms": 331,
+          "body_sample": "\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-59154711-35\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag"
+        },
+        {
+          "kind": "suggest",
+          "term": "rick astley",
+          "path": "/suggestions",
+          "url": "https://pipedapi.drgns.space/suggestions?query=rick%20astley&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 218,
+          "body_sample": "\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-59154711-35\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag"
+        },
+        {
+          "kind": "suggest",
+          "term": "erika",
+          "path": "/suggestions",
+          "url": "https://pipedapi.drgns.space/suggestions?query=erika&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 205,
           "body_sample": "\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-59154711-35\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "erika",
+          "term": "ado",
           "filter": "all",
           "path": "/search",
-          "url": "https://pipedapi.drgns.space/search?q=erika&filter=all",
+          "url": "https://pipedapi.drgns.space/search?q=ado&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 557,
+          "time_ms": 203,
           "body_sample": "\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-59154711-35\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag"
         },
         {
           "kind": "search",
-          "term": "imagine dragons",
+          "term": "erika",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://pipedapi.drgns.space/search?q=imagine%20dragons&filter=music_songs",
+          "url": "https://pipedapi.drgns.space/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 544,
+          "time_ms": 196,
           "body_sample": "\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-59154711-35\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag"
         },
         {
           "kind": "search",
-          "term": "ado",
+          "term": "rick astley",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://pipedapi.drgns.space/search?q=ado&filter=music_videos",
+          "url": "https://pipedapi.drgns.space/search?q=rick%20astley&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 500,
+          "time_ms": 220,
           "body_sample": "\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-59154711-35\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag"
         }
       ],
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 801,
-        "avg_search_ms": 534,
-        "combined_latency_ms": 1335
+        "avg_suggestion_ms": 251,
+        "avg_search_ms": 206,
+        "combined_latency_ms": 457
       },
-      "checked_at": "2026-08-19T01:42:59.277Z",
+      "checked_at": "2026-08-19T03:04:19.688Z",
       "version": "59154711.0.0",
       "isLatest": true
     },
@@ -102,7 +102,7 @@
           "url": "https://pipedapi.orangenet.cc/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 480,
+          "time_ms": 1075,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
@@ -112,17 +112,17 @@
           "url": "https://pipedapi.orangenet.cc/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 124,
+          "time_ms": 180,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
           "kind": "suggest",
-          "term": "ado",
+          "term": "imagine dragons",
           "path": "/suggestions",
-          "url": "https://pipedapi.orangenet.cc/suggestions?query=ado&music=true",
+          "url": "https://pipedapi.orangenet.cc/suggestions?query=imagine%20dragons&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 125,
+          "time_ms": 180,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         }
       ],
@@ -135,29 +135,29 @@
           "url": "https://pipedapi.orangenet.cc/search?q=imagine%20dragons&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 126,
-          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
-        },
-        {
-          "kind": "search",
-          "term": "rick astley",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=rick%20astley&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 125,
+          "time_ms": 179,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         },
         {
           "kind": "search",
           "term": "erika",
-          "filter": "music_videos",
+          "filter": "music_songs",
           "path": "/search",
-          "url": "https://pipedapi.orangenet.cc/search?q=erika&filter=music_videos",
+          "url": "https://pipedapi.orangenet.cc/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 126,
+          "time_ms": 181,
+          "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
+        },
+        {
+          "kind": "search",
+          "term": "ado",
+          "filter": "music_videos",
+          "path": "/search",
+          "url": "https://pipedapi.orangenet.cc/search?q=ado&filter=music_videos",
+          "ok": true,
+          "status": 200,
+          "time_ms": 236,
           "body_sample": "<!DOCTYPE html>\n<html style=\"background: #0f0f0f\" lang=\"en\" >\n    <head>\n        <base href=\"/\"/>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" "
         }
       ],
@@ -167,11 +167,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 243,
-        "avg_search_ms": 126,
-        "combined_latency_ms": 369
+        "avg_suggestion_ms": 478,
+        "avg_search_ms": 199,
+        "combined_latency_ms": 677
       },
-      "checked_at": "2026-08-19T01:42:55.119Z",
+      "checked_at": "2026-08-19T03:04:19.694Z",
       "version": "0.0.0",
       "isLatest": false
     },
@@ -183,23 +183,23 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "Never Gonna Give You Up",
+          "term": "ado",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 259,
-          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up remix\",\"never gonna give you up piano\",\"never gonna give you up meme\",\"never gonna give you up voice crack\",\"never gonna give yo"
+          "time_ms": 211,
+          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado enter sandman\",\"ado\",\"adore you miley cyrus\",\"adopt me house build\",\"adom tv live\",\"adopt me trading\",\"adom fm 106.3 live\",\"adolf hitler\",\"adoration live\",\"adopt me admin abuse\",\"adolf silva rampage crash\"]"
         },
         {
           "kind": "suggest",
-          "term": "союз советский социалистических республик",
+          "term": "erika",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 184,
-          "body_sample": "[\"cccp national anthem 1977\",\"soviet anthem belarus\",\"soviet national anthem 1977\"]"
+          "time_ms": 232,
+          "body_sample": "[\"erika kirk\",\"erika kirk speech\",\"erika diane\",\"erika kirk interview\",\"erika kirk jd vance\",\"erika i don't know\",\"erika jayne\",\"erika isac\",\"erika remix\",\"erika kirk candace owens\",\"erika piano\",\"erika costell\",\"erika lyrics\",\"erika henningsen\"]"
         },
         {
           "kind": "suggest",
@@ -208,8 +208,8 @@
           "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 185,
-          "body_sample": "[\"rick astley never gonna give you up\",\"rick astley\",\"rick astley glastonbury 2023\",\"rick astley together forever\",\"rick astley the smiths\",\"rick astley songs\",\"rick astley foo fighters\",\"rick astley cry for help\",\"rick astley never gonna give you up lyrics\",\"rick astley take me to your heart\",\"rick astley pink pony cl"
+          "time_ms": 241,
+          "body_sample": "[\"rick astley never gonna give you up\",\"rick astley\",\"rick astley glastonbury 2023\",\"rick astley together forever\",\"rick astley the smiths\",\"rick astley songs\",\"rick astley foo fighters\",\"rick astley cry for help\",\"rick astley never gonna give you up lyrics\",\"rick astley take me to your heart\",\"rick astley whenever you"
         }
       ],
       "searches": [
@@ -221,30 +221,30 @@
           "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 589,
+          "time_ms": 577,
           "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"Kenshi Yonezu - IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmZD-TU96q4/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAjXMjvAckioBpWT-ksz16_e8ugtA&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Kenshi Yonezu  米津玄師\",\"uploa"
         },
         {
           "kind": "search",
-          "term": "ado",
+          "term": "erika",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=ado&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 706,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=IGQH1FS89jE\",\"type\":\"stream\",\"title\":\"モンストロ - Monstruo\",\"thumbnail\":\"https://proxy.piped.private.coffee/EN1C_qA9tJzOdcmJD_fJ_-VUAy5OctX3AAYmSHoEucs9V2yTN7hl94T1yV1ZJEUgrhA2PQDPaxWPjXU=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Ado\",\"uploaderUrl\":\"/channel/UC5DHwv9N4OQ9AW"
+          "time_ms": 450,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=ZkoQ0dQP7zM\",\"type\":\"stream\",\"title\":\"Erika Bitte Warten\",\"thumbnail\":\"https://proxy.piped.private.coffee/iEj75t0vgjDPxDyQOhcedZOnpJsWL4ozadUiOCtfL9VLcbaOWY07Fdryjncw-BFDj6bsmFsBE0gtWBWhNg=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"SuffatzeTim\",\"uploaderUrl\":\"/channel/UC"
         },
         {
           "kind": "search",
-          "term": "erika",
+          "term": "imagine dragons",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 380,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3mCmY9H8ipRLEYnEqiLtsITWL2S2A&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"FederalBruv\",\"uploaderUrl"
+          "time_ms": 418,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=7PCwhYb3_rM\",\"type\":\"stream\",\"title\":\"Imagine Dragons Greatest Hits Full Album \\uD83D\\uDD25 Top 10 Songs Collection 2026 \\uD83C\\uDFB6 Demons, Believer, Thunder\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/7PCwhYb3_rM/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3nuovfrg7cWBZgO8MfppJSBxbaXOQ&"
         }
       ],
       "metrics": {
@@ -253,11 +253,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 209,
-        "avg_search_ms": 558,
-        "combined_latency_ms": 767
+        "avg_suggestion_ms": 228,
+        "avg_search_ms": 482,
+        "combined_latency_ms": 710
       },
-      "checked_at": "2026-08-19T01:42:56.360Z",
+      "checked_at": "2026-08-19T03:04:19.871Z",
       "version": "2026.0.0",
       "isLatest": false
     }
