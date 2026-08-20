@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T10:58:38.852Z",
+  "generated_at": "2026-08-20T11:35:58.253Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "59154711.0.0",
   "instances": [
@@ -14,11 +14,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 197,
-        "avg_search_ms": 292,
-        "combined_latency_ms": 489
+        "avg_suggestion_ms": 462,
+        "avg_search_ms": 499,
+        "combined_latency_ms": 961
       },
-      "checked_at": "2026-08-20T10:58:35.074Z",
+      "checked_at": "2026-08-20T11:35:55.149Z",
       "version": "59154711.0.0",
       "isLatest": true
     },
@@ -33,11 +33,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 395,
-        "avg_search_ms": 208,
-        "combined_latency_ms": 603
+        "avg_suggestion_ms": 523,
+        "avg_search_ms": 140,
+        "combined_latency_ms": 663
       },
-      "checked_at": "2026-08-20T10:58:35.111Z",
+      "checked_at": "2026-08-20T11:35:53.195Z",
       "version": "0.0.0",
       "isLatest": false
     },
@@ -52,11 +52,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 267,
-        "avg_search_ms": 569,
-        "combined_latency_ms": 836
+        "avg_suggestion_ms": 203,
+        "avg_search_ms": 577,
+        "combined_latency_ms": 780
       },
-      "checked_at": "2026-08-20T10:58:35.882Z",
+      "checked_at": "2026-08-20T11:35:53.561Z",
       "version": "2026.0.0",
       "isLatest": false
     }
