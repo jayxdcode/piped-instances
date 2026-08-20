@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-20T04:09:34.858Z",
+  "generated_at": "2026-08-20T05:05:45.118Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
-  "version_priority": "2026.0.0",
+  "version_priority": "59154711.0.0",
   "instances": [
     {
-      "name": "private.coffee",
-      "api_url": "https://api.piped.private.coffee",
+      "name": "drgns.space",
+      "api_url": "https://pipedapi.drgns.space",
       "cdn": "No",
-      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
-      "checked_at": "2026-08-20T04:09:15.042Z",
-      "version": "2026.0.0",
+      "raw": "drgns.space | https://pipedapi.drgns.space | 🇺🇸 | No | ![](https://pipedapi.drgns.space/registered/badge)",
+      "checked_at": "2026-08-20T05:05:45.117Z",
+      "version": "59154711.0.0",
       "isLatest": true
     },
     {
@@ -17,17 +17,17 @@
       "api_url": "https://pipedapi.orangenet.cc",
       "cdn": "No",
       "raw": "orangenet.cc | https://pipedapi.orangenet.cc | 🇸🇮 | No | ![](https://pipedapi.orangenet.cc/registered/badge)",
-      "checked_at": "2026-08-20T04:09:14.623Z",
+      "checked_at": "2026-08-20T05:05:40.933Z",
       "version": "0.0.0",
       "isLatest": false
     },
     {
-      "name": "drgns.space",
-      "api_url": "https://pipedapi.drgns.space",
+      "name": "private.coffee",
+      "api_url": "https://api.piped.private.coffee",
       "cdn": "No",
-      "raw": "drgns.space | https://pipedapi.drgns.space | 🇺🇸 | No | ![](https://pipedapi.drgns.space/registered/badge)",
-      "checked_at": "2026-08-20T04:09:34.858Z",
-      "version": null,
+      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
+      "checked_at": "2026-08-20T05:05:41.640Z",
+      "version": "2026.0.0",
       "isLatest": false
     }
   ]

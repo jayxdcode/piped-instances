@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-20T04:09:34.858Z",
+  "generated_at": "2026-08-20T05:05:45.118Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
-  "version_priority": "2026.0.0",
+  "version_priority": "59154711.0.0",
   "instances": [
     {
-      "name": "private.coffee",
-      "api_url": "https://api.piped.private.coffee",
+      "name": "drgns.space",
+      "api_url": "https://pipedapi.drgns.space",
       "cdn": "No",
-      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
+      "raw": "drgns.space | https://pipedapi.drgns.space | 🇺🇸 | No | ![](https://pipedapi.drgns.space/registered/badge)",
       "metrics": {
         "suggestion_success_count": 3,
         "search_success_count": 3,
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 169,
-        "avg_search_ms": 482,
-        "combined_latency_ms": 651
+        "avg_suggestion_ms": 746,
+        "avg_search_ms": 828,
+        "combined_latency_ms": 1574
       },
-      "checked_at": "2026-08-20T04:09:15.042Z",
-      "version": "2026.0.0",
+      "checked_at": "2026-08-20T05:05:45.117Z",
+      "version": "59154711.0.0",
       "isLatest": true
     },
     {
@@ -33,31 +33,31 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 400,
-        "avg_search_ms": 129,
-        "combined_latency_ms": 529
+        "avg_suggestion_ms": 273,
+        "avg_search_ms": 120,
+        "combined_latency_ms": 393
       },
-      "checked_at": "2026-08-20T04:09:14.623Z",
+      "checked_at": "2026-08-20T05:05:40.933Z",
       "version": "0.0.0",
       "isLatest": false
     },
     {
-      "name": "drgns.space",
-      "api_url": "https://pipedapi.drgns.space",
+      "name": "private.coffee",
+      "api_url": "https://api.piped.private.coffee",
       "cdn": "No",
-      "raw": "drgns.space | https://pipedapi.drgns.space | 🇺🇸 | No | ![](https://pipedapi.drgns.space/registered/badge)",
+      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
       "metrics": {
-        "suggestion_success_count": 2,
-        "search_success_count": 2,
-        "suggestion_success_rate": 0.6666666666666666,
-        "search_success_rate": 0.6666666666666666,
-        "combined_success_rate": 0.6666666666666666,
-        "avg_suggestion_ms": 604,
-        "avg_search_ms": 5415,
-        "combined_latency_ms": 6019
+        "suggestion_success_count": 3,
+        "search_success_count": 3,
+        "suggestion_success_rate": 1,
+        "search_success_rate": 1,
+        "combined_success_rate": 1,
+        "avg_suggestion_ms": 166,
+        "avg_search_ms": 446,
+        "combined_latency_ms": 612
       },
-      "checked_at": "2026-08-20T04:09:34.858Z",
-      "version": null,
+      "checked_at": "2026-08-20T05:05:41.640Z",
+      "version": "2026.0.0",
       "isLatest": false
     }
   ]
