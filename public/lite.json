@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T01:50:04.326Z",
+  "generated_at": "2026-08-23T03:10:02.873Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "59154711.0.0",
   "instances": [
@@ -14,32 +14,13 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 581,
-        "avg_search_ms": 529,
-        "combined_latency_ms": 1110
+        "avg_suggestion_ms": 573,
+        "avg_search_ms": 588,
+        "combined_latency_ms": 1161
       },
-      "checked_at": "2026-08-23T01:50:04.326Z",
+      "checked_at": "2026-08-23T03:09:56.361Z",
       "version": "59154711.0.0",
       "isLatest": true
-    },
-    {
-      "name": "orangenet.cc",
-      "api_url": "https://pipedapi.orangenet.cc",
-      "cdn": "No",
-      "raw": "orangenet.cc | https://pipedapi.orangenet.cc | 🇸🇮 | No | ![](https://pipedapi.orangenet.cc/registered/badge)",
-      "metrics": {
-        "suggestion_success_count": 3,
-        "search_success_count": 3,
-        "suggestion_success_rate": 1,
-        "search_success_rate": 1,
-        "combined_success_rate": 1,
-        "avg_suggestion_ms": 226,
-        "avg_search_ms": 116,
-        "combined_latency_ms": 342
-      },
-      "checked_at": "2026-08-23T01:50:01.548Z",
-      "version": "0.0.0",
-      "isLatest": false
     },
     {
       "name": "private.coffee",
@@ -52,12 +33,31 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 172,
-        "avg_search_ms": 499,
-        "combined_latency_ms": 671
+        "avg_suggestion_ms": 171,
+        "avg_search_ms": 442,
+        "combined_latency_ms": 613
       },
-      "checked_at": "2026-08-23T01:50:02.576Z",
+      "checked_at": "2026-08-23T03:09:53.600Z",
       "version": "2026.0.0",
+      "isLatest": false
+    },
+    {
+      "name": "orangenet.cc",
+      "api_url": "https://pipedapi.orangenet.cc",
+      "cdn": "No",
+      "raw": "orangenet.cc | https://pipedapi.orangenet.cc | 🇸🇮 | No | ![](https://pipedapi.orangenet.cc/registered/badge)",
+      "metrics": {
+        "suggestion_success_count": 3,
+        "search_success_count": 3,
+        "suggestion_success_rate": 1,
+        "search_success_rate": 1,
+        "combined_success_rate": 1,
+        "avg_suggestion_ms": 505,
+        "avg_search_ms": 120,
+        "combined_latency_ms": 625
+      },
+      "checked_at": "2026-08-23T03:09:53.588Z",
+      "version": "0.0.0",
       "isLatest": false
     }
   ]
