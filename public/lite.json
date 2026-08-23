@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-08-23T17:26:28.057Z",
+  "generated_at": "2026-08-23T17:49:34.171Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "59154711.0.0",
   "instances": [
+    {
+      "name": "drgns.space",
+      "api_url": "https://pipedapi.drgns.space",
+      "cdn": "No",
+      "raw": "drgns.space | https://pipedapi.drgns.space | 🇺🇸 | No | ![](https://pipedapi.drgns.space/registered/badge)",
+      "metrics": {
+        "suggestion_success_count": 2,
+        "search_success_count": 3,
+        "suggestion_success_rate": 0.6666666666666666,
+        "search_success_rate": 1,
+        "combined_success_rate": 0.8333333333333334,
+        "avg_suggestion_ms": 466,
+        "avg_search_ms": 516,
+        "combined_latency_ms": 982
+      },
+      "checked_at": "2026-08-23T17:49:33.046Z",
+      "version": "59154711.0.0",
+      "isLatest": true
+    },
     {
       "name": "orangenet.cc",
       "api_url": "https://pipedapi.orangenet.cc",
@@ -14,11 +33,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 274,
-        "avg_search_ms": 179,
-        "combined_latency_ms": 453
+        "avg_suggestion_ms": 350,
+        "avg_search_ms": 137,
+        "combined_latency_ms": 487
       },
-      "checked_at": "2026-08-23T17:26:17.695Z",
+      "checked_at": "2026-08-23T17:49:31.114Z",
       "version": "0.0.0",
       "isLatest": false
     },
@@ -33,11 +52,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 223,
-        "avg_search_ms": 668,
-        "combined_latency_ms": 891
+        "avg_suggestion_ms": 221,
+        "avg_search_ms": 591,
+        "combined_latency_ms": 812
       },
-      "checked_at": "2026-08-23T17:26:18.281Z",
+      "checked_at": "2026-08-23T17:49:32.148Z",
       "version": "2026.0.0",
       "isLatest": false
     }
