@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-24T17:07:33.373Z",
+  "generated_at": "2026-08-24T17:59:37.881Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
-  "version_priority": "2026.0.0",
+  "version_priority": "59154711.0.0",
   "instances": [
     {
-      "name": "private.coffee",
-      "api_url": "https://api.piped.private.coffee",
+      "name": "drgns.space",
+      "api_url": "https://pipedapi.drgns.space",
       "cdn": "No",
-      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
+      "raw": "drgns.space | https://pipedapi.drgns.space | 🇺🇸 | No | ![](https://pipedapi.drgns.space/registered/badge)",
       "metrics": {
         "suggestion_success_count": 3,
         "search_success_count": 3,
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 275,
-        "avg_search_ms": 681,
-        "combined_latency_ms": 956
+        "avg_suggestion_ms": 588,
+        "avg_search_ms": 709,
+        "combined_latency_ms": 1297
       },
-      "checked_at": "2026-08-24T17:06:58.614Z",
-      "version": "2026.0.0",
+      "checked_at": "2026-08-24T17:59:37.651Z",
+      "version": "59154711.0.0",
       "isLatest": true
     },
     {
@@ -33,12 +33,31 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 326,
-        "avg_search_ms": 178,
-        "combined_latency_ms": 504
+        "avg_suggestion_ms": 401,
+        "avg_search_ms": 141,
+        "combined_latency_ms": 542
       },
-      "checked_at": "2026-08-24T17:06:57.837Z",
+      "checked_at": "2026-08-24T17:59:34.762Z",
       "version": "0.0.0",
+      "isLatest": false
+    },
+    {
+      "name": "private.coffee",
+      "api_url": "https://api.piped.private.coffee",
+      "cdn": "No",
+      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
+      "metrics": {
+        "suggestion_success_count": 3,
+        "search_success_count": 3,
+        "suggestion_success_rate": 1,
+        "search_success_rate": 1,
+        "combined_success_rate": 1,
+        "avg_suggestion_ms": 229,
+        "avg_search_ms": 596,
+        "combined_latency_ms": 825
+      },
+      "checked_at": "2026-08-24T17:59:35.619Z",
+      "version": "2026.0.0",
       "isLatest": false
     }
   ]
