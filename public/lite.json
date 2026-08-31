@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:55:28.266Z",
+  "generated_at": "2026-08-31T23:43:04.746Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "59154711.0.0",
   "instances": [
@@ -9,16 +9,16 @@
       "cdn": "No",
       "raw": "drgns.space | https://pipedapi.drgns.space | 🇺🇸 | No | ![](https://pipedapi.drgns.space/registered/badge)",
       "metrics": {
-        "suggestion_success_count": 3,
+        "suggestion_success_count": 2,
         "search_success_count": 3,
-        "suggestion_success_rate": 1,
+        "suggestion_success_rate": 0.6666666666666666,
         "search_success_rate": 1,
-        "combined_success_rate": 1,
-        "avg_suggestion_ms": 585,
-        "avg_search_ms": 547,
-        "combined_latency_ms": 1132
+        "combined_success_rate": 0.8333333333333334,
+        "avg_suggestion_ms": 385,
+        "avg_search_ms": 391,
+        "combined_latency_ms": 776
       },
-      "checked_at": "2026-08-31T19:55:28.265Z",
+      "checked_at": "2026-08-31T23:43:02.524Z",
       "version": "59154711.0.0",
       "isLatest": true
     },
@@ -33,11 +33,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 179,
-        "avg_search_ms": 840,
-        "combined_latency_ms": 1019
+        "avg_suggestion_ms": 217,
+        "avg_search_ms": 539,
+        "combined_latency_ms": 756
       },
-      "checked_at": "2026-08-31T19:55:27.143Z",
+      "checked_at": "2026-08-31T23:43:02.924Z",
       "version": "2026.0.0",
       "isLatest": false
     }
