@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:46:15.093Z",
+  "generated_at": "2026-09-16T18:47:46.494Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
@@ -16,41 +16,41 @@
           "url": "https://api.piped.private.coffee/suggestions?query=iris%20out&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 198,
+          "time_ms": 511,
           "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\",\"iris out instrumental\"]"
         },
         {
           "kind": "suggest",
-          "term": "rick astley",
+          "term": "Never Gonna Give You Up",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 218,
-          "body_sample": "[\"rick astley never gonna give you up\",\"rick astley\",\"rick astley the smiths\",\"rick astley glastonbury 2023\",\"rick astley together forever\",\"rick astley songs\",\"rick astley foo fighters\",\"rick astley cry for help\",\"rick astley never gonna give you up lyrics\",\"rick astley live\",\"rick astley take me to your heart\",\"rick "
+          "time_ms": 167,
+          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up remix\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up cover\",\"never gonna give you up piano\",\"never gonna give you up barry white\",\"never gonna give y"
         },
         {
           "kind": "suggest",
-          "term": "erika",
+          "term": "союз советский социалистических республик",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 199,
-          "body_sample": "[\"erika kirk\",\"erika kirk speech\",\"erika kirk jd vance\",\"erika kirk interview\",\"erika diane\",\"erika i don't know\",\"erika isac\",\"erika piano\",\"erika kirk candace owens\",\"erika jayne\",\"erika kirk entrance\",\"erika costell\",\"erika kirk statement\",\"erika kirk talks about charlie\"]"
+          "time_ms": 258,
+          "body_sample": "[\"cccp national anthem 1977\",\"soviet anthem belarus\",\"soviet national anthem 1977\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "iris out",
+          "term": "erika",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 664,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"Kenshi Yonezu - IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmZD-TU96q4/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAjXMjvAckioBpWT-ksz16_e8ugtA&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Kenshi Yonezu  米津玄師\",\"uploa"
+          "time_ms": 596,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=nhqYLCGiZdI\",\"type\":\"stream\",\"title\":\"Erika Kirk ist absolut kompetent. #ErikaKirk #JeremyBoreing #FrankTurek\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/nhqYLCGiZdI/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDe6gPLT8mxt7rWrTxT-ODFUFkI_Q&sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAf"
         },
         {
           "kind": "search",
@@ -60,7 +60,7 @@
           "url": "https://api.piped.private.coffee/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 669,
+          "time_ms": 455,
           "body_sample": "{\"items\":[{\"url\":\"/watch?v=lYBUbBu4W08\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/eC9DfRcYSk4FE-fvDCJSu_4xsKdVMKxwmFTYFZwP8OqB7R4TKxAjKoR-Kp1lXeRi2WddPFYulSte4eW-=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel"
         },
         {
@@ -71,7 +71,7 @@
           "url": "https://api.piped.private.coffee/search?q=ado&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 537,
+          "time_ms": 555,
           "body_sample": "{\"items\":[{\"url\":\"/watch?v=KaHu4xcQxAk\",\"type\":\"stream\",\"title\":\"Ado Greatest Hits, The Ultimate J-Pop Compilation BGM | Usseewa, Odo, Tot Musica & More!\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/KaHu4xcQxAk/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3nCGrGAOiHdwl-AV9g6zxO7puBwPg&sqp=-oaymwEWCJADEOEBIAQqCggAEOADG"
         }
       ],
@@ -81,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 205,
-        "avg_search_ms": 623,
-        "combined_latency_ms": 828
+        "avg_suggestion_ms": 312,
+        "avg_search_ms": 535,
+        "combined_latency_ms": 847
       },
-      "checked_at": "2026-09-16T14:46:13.015Z",
+      "checked_at": "2026-09-16T18:47:45.567Z",
       "version": "2026.0.0",
       "isLatest": true
     },
@@ -97,57 +97,57 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "imagine dragons",
-          "path": "/suggestions",
-          "url": "https://pipedapi.ducks.party/suggestions?query=imagine%20dragons&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 171,
-          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons live\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons whatever it takes\",\"imagin"
-        },
-        {
-          "kind": "suggest",
-          "term": "ado",
-          "path": "/suggestions",
-          "url": "https://pipedapi.ducks.party/suggestions?query=ado&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 160,
-          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adom fm 106.3 live\",\"adore you miley cyrus\",\"adom tv live\",\"adopt me house build\",\"adopt me trading\",\"adolf hitler\",\"adoration live\",\"adopt me admin abuse\",\"adolf silva rampage crash\",\"adolescence reaction\"]"
-        },
-        {
-          "kind": "suggest",
           "term": "rick astley",
           "path": "/suggestions",
           "url": "https://pipedapi.ducks.party/suggestions?query=rick%20astley&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 168,
-          "body_sample": "[\"rick astley never gonna give you up\",\"rick astley\",\"rick astley the smiths\",\"rick astley glastonbury 2023\",\"rick astley together forever\",\"rick astley songs\",\"rick astley foo fighters\",\"rick astley cry for help\",\"rick astley never gonna give you up lyrics\",\"rick astley live\",\"rick astley take me to your heart\",\"rick "
+          "time_ms": 169,
+          "body_sample": "[\"rick astley never gonna give you up\",\"rick astley\",\"rick astley glastonbury 2023\",\"rick astley the smiths\",\"rick astley together forever\",\"rick astley songs\",\"rick astley foo fighters\",\"rick astley cry for help\",\"rick astley never gonna give you up lyrics\",\"rick astley take me to your heart\",\"rick astley pink pony cl"
+        },
+        {
+          "kind": "suggest",
+          "term": "Never Gonna Give You Up",
+          "path": "/suggestions",
+          "url": "https://pipedapi.ducks.party/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 125,
+          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up remix\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up cover\",\"never gonna give you up piano\",\"never gonna give you up barry white\",\"never gonna give y"
+        },
+        {
+          "kind": "suggest",
+          "term": "союз советский социалистических республик",
+          "path": "/suggestions",
+          "url": "https://pipedapi.ducks.party/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 214,
+          "body_sample": "[\"cccp national anthem 1977\",\"soviet anthem belarus\",\"soviet national anthem 1977\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "imagine dragons",
+          "term": "rick astley",
           "filter": "all",
           "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=imagine%20dragons&filter=all",
+          "url": "https://pipedapi.ducks.party/search?q=rick%20astley&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 859,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=mWRsgZuwf_8\",\"type\":\"stream\",\"title\":\"Imagine Dragons - Demons (Official Music Video)\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/mWRsgZuwf_8/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDcZvI5Udq7xj1fSkrwKqWlK3G1Gw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Imagine"
+          "time_ms": 766,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=eYuUAGXN0KM\",\"type\":\"stream\",\"title\":\"Rick Astley - Take Me to Your Heart (Official Video) (4K Remaster)\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/eYuUAGXN0KM/hq720.jpg?host=i.ytimg.com&rs=AOn4CLB6qSi-2gt3qPWPOt2IkkUfhAEIxg&sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg%3D\",\"u"
         },
         {
           "kind": "search",
-          "term": "союз советский социалистических республик",
+          "term": "erika",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_songs",
+          "url": "https://pipedapi.ducks.party/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 1118,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=8HLUpWIW860\",\"type\":\"stream\",\"title\":\"Государственный гимн Советского Союза\",\"thumbnail\":\"https://piped-proxy.ducks.party/5NIofrgIwlbkHrhsJp4YpVh-twOXWgDFA7BArDMGevg37RpvB492cIB6dYS493iwh8SEDAlttVlJLVrxDQ=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Хор Большого театра\",\"u"
+          "time_ms": 567,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=YdBE-cbXEwQ\",\"type\":\"stream\",\"title\":\"Kachi Miíva Ndioxi\",\"thumbnail\":\"https://piped-proxy.ducks.party/ehUeIj7scz7DT_KnuSHBozuT5rOd2NP3A1zVWPpKyOWmCimsxhoQP7bamMi-ASKh00eokRpWXTekPOET=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Erika Y Su Ritmo Alegre\",\"uploaderUrl\":\"/cha"
         },
         {
           "kind": "search",
@@ -157,7 +157,7 @@
           "url": "https://pipedapi.ducks.party/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 728,
+          "time_ms": 723,
           "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/dQw4w9WgXcQ/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3lrEQLVd7aUH6RTaLjc4JkVVNINHQ&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/UCwZ"
         }
       ],
@@ -167,11 +167,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 166,
-        "avg_search_ms": 902,
-        "combined_latency_ms": 1068
+        "avg_suggestion_ms": 169,
+        "avg_search_ms": 685,
+        "combined_latency_ms": 854
       },
-      "checked_at": "2026-09-16T14:46:13.652Z",
+      "checked_at": "2026-09-16T18:47:45.516Z",
       "version": "2026.0.0",
       "isLatest": true
     }
