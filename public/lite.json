@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-26T22:38:00.036Z",
+  "generated_at": "2026-09-27T01:17:09.766Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
+    {
+      "name": "ducks.party",
+      "api_url": "https://pipedapi.ducks.party",
+      "cdn": "No",
+      "raw": "ducks.party | https://pipedapi.ducks.party | 🇳🇱 | No | ![](https://pipedapi.ducks.party/registered/badge)",
+      "metrics": {
+        "suggestion_success_count": 3,
+        "search_success_count": 3,
+        "suggestion_success_rate": 1,
+        "search_success_rate": 1,
+        "combined_success_rate": 1,
+        "avg_suggestion_ms": 135,
+        "avg_search_ms": 436,
+        "combined_latency_ms": 571
+      },
+      "checked_at": "2026-09-27T01:16:59.302Z",
+      "version": "2026.0.0",
+      "isLatest": true
+    },
     {
       "name": "private.coffee",
       "api_url": "https://api.piped.private.coffee",
@@ -14,11 +33,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 198,
-        "avg_search_ms": 495,
-        "combined_latency_ms": 693
+        "avg_suggestion_ms": 147,
+        "avg_search_ms": 455,
+        "combined_latency_ms": 602
       },
-      "checked_at": "2026-09-26T22:37:50.455Z",
+      "checked_at": "2026-09-27T01:16:59.767Z",
       "version": "2026.0.0",
       "isLatest": true
     }
