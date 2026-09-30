@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-30T15:11:45.668Z",
+  "generated_at": "2026-09-30T20:15:26.714Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
-    {
-      "name": "ducks.party",
-      "api_url": "https://pipedapi.ducks.party",
-      "cdn": "No",
-      "raw": "ducks.party | https://pipedapi.ducks.party | 🇳🇱 | No | ![](https://pipedapi.ducks.party/registered/badge)",
-      "checked_at": "2026-09-30T15:11:37.423Z",
-      "version": "2026.0.0",
-      "isLatest": true
-    },
     {
       "name": "private.coffee",
       "api_url": "https://api.piped.private.coffee",
       "cdn": "No",
       "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
-      "checked_at": "2026-09-30T15:11:36.551Z",
+      "checked_at": "2026-09-30T20:15:17.295Z",
+      "version": "2026.0.0",
+      "isLatest": true
+    },
+    {
+      "name": "ducks.party",
+      "api_url": "https://pipedapi.ducks.party",
+      "cdn": "No",
+      "raw": "ducks.party | https://pipedapi.ducks.party | 🇳🇱 | No | ![](https://pipedapi.ducks.party/registered/badge)",
+      "checked_at": "2026-09-30T20:15:17.239Z",
       "version": "2026.0.0",
       "isLatest": true
     }
