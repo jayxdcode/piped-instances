@@ -1,94 +1,8 @@
 {
-  "generated_at": "2026-10-08T20:38:03.429Z",
+  "generated_at": "2026-10-09T01:08:24.807Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
-    {
-      "name": "ducks.party",
-      "api_url": "https://pipedapi.ducks.party",
-      "cdn": "No",
-      "raw": "ducks.party | https://pipedapi.ducks.party | 🇳🇱 | No | ![](https://pipedapi.ducks.party/registered/badge)",
-      "suggestions": [
-        {
-          "kind": "suggest",
-          "term": "imagine dragons",
-          "path": "/suggestions",
-          "url": "https://pipedapi.ducks.party/suggestions?query=imagine%20dragons&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 159,
-          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons live\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons whatever it takes\",\"imagin"
-        },
-        {
-          "kind": "suggest",
-          "term": "iris out",
-          "path": "/suggestions",
-          "url": "https://pipedapi.ducks.party/suggestions?query=iris%20out&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 137,
-          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out dance\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\",\"iris out instrumental\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "союз советский социалистических республик",
-          "path": "/suggestions",
-          "url": "https://pipedapi.ducks.party/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 221,
-          "body_sample": "[\"cccp national anthem 1977\",\"советский гимн 1944\",\"soviet anthem belarus\"]"
-        }
-      ],
-      "searches": [
-        {
-          "kind": "search",
-          "term": "rick astley",
-          "filter": "all",
-          "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=rick%20astley&filter=all",
-          "ok": true,
-          "status": 200,
-          "time_ms": 713,
-          "body_sample": "{\"items\":[{\"url\":\"/playlist?list=PL2MI040U_GXobmpXtTwBF7oHBGT5BETSD\",\"type\":\"playlist\",\"name\":\"RickAstley - Greatest Hits\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/dQw4w9WgXcQ/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDX3LgTmArIBIk6uvvz4y5p95MOcg&sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE%3D\",\"uploaderName\":\"RickAstl"
-        },
-        {
-          "kind": "search",
-          "term": "ado",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=ado&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 432,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=MExT89HUNUY\",\"type\":\"stream\",\"title\":\"Stay Gold (from BEYBLADE X)\",\"thumbnail\":\"https://piped-proxy.ducks.party/JYJAREE_t2vMPx68xh-KfywkQVkA9exZ_HohI5gamyZHGPb3gHbXP1f3kJFJoa7dDP2sRN1SURjyaSgGyA=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Jax Jones\",\"uploaderUrl\":\"/channe"
-        },
-        {
-          "kind": "search",
-          "term": "союз советский социалистических республик",
-          "filter": "music_videos",
-          "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_videos",
-          "ok": true,
-          "status": 200,
-          "time_ms": 421,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=f9tYu_il7ZE\",\"type\":\"stream\",\"title\":\"Государственный гимн Союза Советских Социалистических Республик (СССР)\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/f9tYu_il7ZE/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3lHwWlCgaW7gpkTHFuQgPbKb12WtQ&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderN"
-        }
-      ],
-      "metrics": {
-        "suggestion_success_count": 3,
-        "search_success_count": 3,
-        "suggestion_success_rate": 1,
-        "search_success_rate": 1,
-        "combined_success_rate": 1,
-        "avg_suggestion_ms": 172,
-        "avg_search_ms": 522,
-        "combined_latency_ms": 694
-      },
-      "checked_at": "2026-10-08T20:37:53.275Z",
-      "version": "2026.0.0",
-      "isLatest": true
-    },
     {
       "name": "private.coffee",
       "api_url": "https://api.piped.private.coffee",
@@ -102,18 +16,18 @@
           "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 167,
-          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up remix\",\"never gonna give you up piano\",\"never gonna give you up meme\",\"never gonna give you up voice crack\",\"never gonna give yo"
+          "time_ms": 206,
+          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up piano\",\"never gonna give you up remix\",\"never gonna give you up live\",\"never gonna give you up meme\",\"never gonna give you up vo"
         },
         {
           "kind": "suggest",
-          "term": "rick astley",
+          "term": "erika",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 174,
-          "body_sample": "[\"rick astley never gonna give you up\",\"rick astley\",\"rick astley glastonbury 2023\",\"rick astley together forever\",\"rick astley the smiths\",\"rick astley live\",\"rick astley cry for help\",\"rick astley songs\",\"rick astley foo fighters\",\"rick astley never gonna give you up lyrics\",\"rick astley take me to your heart\",\"rick "
+          "time_ms": 206,
+          "body_sample": "[\"erika kirk\",\"erika kirk speech\",\"erika knight boxer\",\"erika kirk jd vance\",\"erika kirk interview\",\"erika diane\",\"erika knight\",\"erika i don't know\",\"erika isac\",\"erika kirk candace owens\",\"erika piano\",\"erika costell\",\"erika eleniak\",\"erika jayne\"]"
         },
         {
           "kind": "suggest",
@@ -122,43 +36,43 @@
           "url": "https://api.piped.private.coffee/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 314,
+          "time_ms": 293,
           "body_sample": "[\"cccp national anthem 1977\",\"советский гимн 1944\",\"soviet anthem belarus\"]"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "iris out",
+          "term": "erika",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 784,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"Kenshi Yonezu - IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/LmZD-TU96q4/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAjXMjvAckioBpWT-ksz16_e8ugtA&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Kenshi Yonezu  米津玄師\",\"uploa"
+          "time_ms": 539,
+          "body_sample": "{\"items\":[{\"url\":\"/playlist?list=PL0k9rpB-oTRXQ3Sw-KpbqjWPeEqhgp9BO\",\"type\":\"playlist\",\"name\":\"Erika German Marching Songs\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/hq720.jpg?host=i.ytimg.com&rs=AOn4CLB3UwKpgxq65cfdT6JpAhC56upExA&sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE%3D\",\"uploaderName\":\"Kyle"
+        },
+        {
+          "kind": "search",
+          "term": "iris out",
+          "filter": "music_songs",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=music_songs",
+          "ok": true,
+          "status": 200,
+          "time_ms": 440,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Cb0JZhdmjtg\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/VGf2lFXKQdSyrz2g3Czj66doPtUxvJBrWDK6UFeOj8zRqS-tgs_D8FG5-8pYTX-Uh9FxZBDJIXtN1nKF=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-"
         },
         {
           "kind": "search",
           "term": "imagine dragons",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 494,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=y4FiCl-tUJc\",\"type\":\"stream\",\"title\":\"Demons\",\"thumbnail\":\"https://proxy.piped.private.coffee/q5PWa2JVJApX31A7QU2vE4RY8i5S_ofYbfpxgDjhz5fagMAxv8ROkEpUr2OAYgYrhzYqJpv0bV94DRCb=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Imagine Dragons\",\"uploaderUrl\":\"/channel/UC0aXrjVxG5p"
-        },
-        {
-          "kind": "search",
-          "term": "союз советский социалистических республик",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 472,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=f9tYu_il7ZE\",\"type\":\"stream\",\"title\":\"Государственный гимн Союза Советских Социалистических Республик (СССР)\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/f9tYu_il7ZE/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3lHwWlCgaW7gpkTHFuQgPbKb12WtQ&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"upload"
+          "time_ms": 463,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=7PCwhYb3_rM\",\"type\":\"stream\",\"title\":\"Imagine Dragons Greatest Hits Full Album \\uD83D\\uDD25 Top 10 Songs Collection 2026 \\uD83C\\uDFB6 Demons, Believer, Thunder\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/7PCwhYb3_rM/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3nuovfrg7cWBZgO8MfppJSBxbaXOQ&"
         }
       ],
       "metrics": {
@@ -167,11 +81,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 218,
-        "avg_search_ms": 583,
-        "combined_latency_ms": 801
+        "avg_suggestion_ms": 235,
+        "avg_search_ms": 481,
+        "combined_latency_ms": 716
       },
-      "checked_at": "2026-10-08T20:37:53.761Z",
+      "checked_at": "2026-10-09T01:08:15.094Z",
       "version": "2026.0.0",
       "isLatest": true
     }
