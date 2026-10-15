@@ -1,27 +1,8 @@
 {
-  "generated_at": "2026-10-14T21:31:45.896Z",
+  "generated_at": "2026-10-15T00:24:11.122Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
-    {
-      "name": "ducks.party",
-      "api_url": "https://pipedapi.ducks.party",
-      "cdn": "No",
-      "raw": "ducks.party | https://pipedapi.ducks.party | 🇳🇱 | No | ![](https://pipedapi.ducks.party/registered/badge)",
-      "metrics": {
-        "suggestion_success_count": 3,
-        "search_success_count": 3,
-        "suggestion_success_rate": 1,
-        "search_success_rate": 1,
-        "combined_success_rate": 1,
-        "avg_suggestion_ms": 190,
-        "avg_search_ms": 626,
-        "combined_latency_ms": 816
-      },
-      "checked_at": "2026-10-14T21:31:36.314Z",
-      "version": "2026.0.0",
-      "isLatest": true
-    },
     {
       "name": "private.coffee",
       "api_url": "https://api.piped.private.coffee",
@@ -33,11 +14,30 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 214,
-        "avg_search_ms": 628,
-        "combined_latency_ms": 842
+        "avg_suggestion_ms": 208,
+        "avg_search_ms": 530,
+        "combined_latency_ms": 738
       },
-      "checked_at": "2026-10-14T21:31:36.675Z",
+      "checked_at": "2026-10-15T00:24:01.422Z",
+      "version": "2026.0.0",
+      "isLatest": true
+    },
+    {
+      "name": "ducks.party",
+      "api_url": "https://pipedapi.ducks.party",
+      "cdn": "No",
+      "raw": "ducks.party | https://pipedapi.ducks.party | 🇳🇱 | No | ![](https://pipedapi.ducks.party/registered/badge)",
+      "metrics": {
+        "suggestion_success_count": 3,
+        "search_success_count": 3,
+        "suggestion_success_rate": 1,
+        "search_success_rate": 1,
+        "combined_success_rate": 1,
+        "avg_suggestion_ms": 191,
+        "avg_search_ms": 564,
+        "combined_latency_ms": 755
+      },
+      "checked_at": "2026-10-15T00:24:02.054Z",
       "version": "2026.0.0",
       "isLatest": true
     }
