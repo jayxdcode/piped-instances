@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-10-20T06:28:49.980Z",
+  "generated_at": "2026-10-20T12:02:10.178Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
+    {
+      "name": "private.coffee",
+      "api_url": "https://api.piped.private.coffee",
+      "cdn": "No",
+      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
+      "suggestions": [
+        {
+          "kind": "suggest",
+          "term": "Never Gonna Give You Up",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 231,
+          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up piano\",\"never gonna give you up remix\",\"never gonna give you up meme\",\"never gonna give you up voice crack\",\"never gonna give yo"
+        },
+        {
+          "kind": "suggest",
+          "term": "rick astley",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=rick%20astley&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 242,
+          "body_sample": "[\"rick astley never gonna give you up\",\"rick astley\",\"rick astley glastonbury 2023\",\"rick astley together forever\",\"rick astley the smiths\",\"rick astley songs\",\"rick astley foo fighters\",\"rick astley cry for help\",\"rick astley never gonna give you up lyrics\",\"rick astley take me to your heart\",\"rick astley pink pony cl"
+        },
+        {
+          "kind": "suggest",
+          "term": "imagine dragons",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 234,
+          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons live\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons whatever it takes\",\"imagin"
+        }
+      ],
+      "searches": [
+        {
+          "kind": "search",
+          "term": "rick astley",
+          "filter": "all",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=all",
+          "ok": true,
+          "status": 200,
+          "time_ms": 780,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=6t6y88njdH4\",\"type\":\"stream\",\"title\":\"Rick Astley - Cry For Help - RTL LATE NIGHT\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/6t6y88njdH4/hqdefault.jpg?host=i.ytimg.com&rs=AOn4CLCvVrKz7zX1jk1GRw8Hf_9U-WmDqg&sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"RENZ"
+        },
+        {
+          "kind": "search",
+          "term": "erika",
+          "filter": "music_songs",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_songs",
+          "ok": true,
+          "status": 200,
+          "time_ms": 534,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=gQBnoFKNfiU\",\"type\":\"stream\",\"title\":\"Vagabundo é Tu\",\"thumbnail\":\"https://proxy.piped.private.coffee/3Mj7V3F0e7Vt-kslPXJXHMLnuTAfzyvAnRQH2SoawTN1_qn0M8sG33Svnm_iKY1NtjgA3SLESXag_3_l=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Erika Trindade\",\"uploaderUrl\":\"/channel/UCWPH"
+        },
+        {
+          "kind": "search",
+          "term": "Never Gonna Give You Up",
+          "filter": "music_videos",
+          "path": "/search",
+          "url": "https://api.piped.private.coffee/search?q=Never%20Gonna%20Give%20You%20Up&filter=music_videos",
+          "ok": true,
+          "status": 200,
+          "time_ms": 640,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3lrEQLVd7aUH6RTaLjc4JkVVNINHQ&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/U"
+        }
+      ],
+      "metrics": {
+        "suggestion_success_count": 3,
+        "search_success_count": 3,
+        "suggestion_success_rate": 1,
+        "search_success_rate": 1,
+        "combined_success_rate": 1,
+        "avg_suggestion_ms": 236,
+        "avg_search_ms": 651,
+        "combined_latency_ms": 887
+      },
+      "checked_at": "2026-10-20T12:02:00.942Z",
+      "version": "2026.0.0",
+      "isLatest": true
+    },
     {
       "name": "ducks.party",
       "api_url": "https://pipedapi.ducks.party",
@@ -11,13 +97,13 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "ado",
+          "term": "erika",
           "path": "/suggestions",
-          "url": "https://pipedapi.ducks.party/suggestions?query=ado&music=true",
+          "url": "https://pipedapi.ducks.party/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 149,
-          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adore you miley cyrus\",\"adopt me trading\",\"adopt me house build\",\"adolf hitler\",\"adopt me admin abuse\",\"adolf silva rampage crash\",\"adolescence reaction\",\"adonai nathaniel bassey\",\"adolescence emmy\",\"adolescence trailer\"]"
+          "time_ms": 217,
+          "body_sample": "[\"erika kirk\",\"erika kirk speech\",\"erika kirk jd vance\",\"erika kirk interview\",\"erika diane\",\"erika i don't know\",\"erika isac\",\"erika remix\",\"erika kirk candace owens\",\"erika piano\",\"erika jayne\",\"erika costell\",\"erika kirk statement\",\"erika kirk talks about charlie\"]"
         },
         {
           "kind": "suggest",
@@ -26,7 +112,7 @@
           "url": "https://pipedapi.ducks.party/suggestions?query=iris%20out&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 147,
+          "time_ms": 200,
           "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out reaction\",\"iris out piano\",\"iris out dance\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out cover\",\"iris out live\",\"iris out opening\",\"iris out chainsaw man\",\"iris out english\",\"iris out instrumental\"]"
         },
         {
@@ -36,129 +122,43 @@
           "url": "https://pipedapi.ducks.party/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 151,
+          "time_ms": 198,
           "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up 10 hours\",\"never gonna give you up piano\",\"never gonna give you up remix\",\"never gonna give you up meme\",\"never gonna give you up voice crack\",\"never gonna give yo"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "Never Gonna Give You Up",
+          "term": "iris out",
           "filter": "all",
           "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=Never%20Gonna%20Give%20You%20Up&filter=all",
+          "url": "https://pipedapi.ducks.party/search?q=iris%20out&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 769,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/dQw4w9WgXcQ/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDRxusbm2_TGTnDWEIhBTYW2cUQkw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"u"
+          "time_ms": 1094,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"Kenshi Yonezu - IRIS OUT\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/LmZD-TU96q4/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDk4G4WZ_-Ix0h-XrUkviHE6pggtQ&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjWtpvGBhjg6gQg4KgB&usqp=CBU\",\"uploaderName\":\"K"
         },
         {
           "kind": "search",
-          "term": "ado",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=ado&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 474,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=tU61Svr-zxA\",\"type\":\"stream\",\"title\":\"Raven Sky\",\"thumbnail\":\"https://piped-proxy.ducks.party/qB5u97GMYhhMmj8dGsfmwjVx-86FYLugibnzlJ9MBN4BuGb2O3h4QikHf2bartN7cM1GuC6RqAkMY2M=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Ado\",\"uploaderUrl\":\"/channel/UC5DHwv9N4OQ9AWtKr8YSefw\""
-        },
-        {
-          "kind": "search",
-          "term": "iris out",
-          "filter": "music_videos",
-          "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=iris%20out&filter=music_videos",
-          "ok": true,
-          "status": 200,
-          "time_ms": 482,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/LmZD-TU96q4/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3mFmPxOhDJNxEYb9iyJkkWGAi7kVQ&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-aWFvV"
-        }
-      ],
-      "metrics": {
-        "suggestion_success_count": 3,
-        "search_success_count": 3,
-        "suggestion_success_rate": 1,
-        "search_success_rate": 1,
-        "combined_success_rate": 1,
-        "avg_suggestion_ms": 149,
-        "avg_search_ms": 575,
-        "combined_latency_ms": 724
-      },
-      "checked_at": "2026-10-20T06:28:40.013Z",
-      "version": "2026.0.0",
-      "isLatest": true
-    },
-    {
-      "name": "private.coffee",
-      "api_url": "https://api.piped.private.coffee",
-      "cdn": "No",
-      "raw": "private.coffee | https://api.piped.private.coffee | 🇦🇹 | No | ![](https://api.piped.private.coffee/registered/badge)",
-      "suggestions": [
-        {
-          "kind": "suggest",
           "term": "erika",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 188,
-          "body_sample": "[\"erika kirk\",\"erika kirk speech\",\"erika kirk jd vance\",\"erika kirk interview\",\"erika diane\",\"erika i don't know\",\"erika isac\",\"erika kirk candace owens\",\"erika piano\",\"erika jayne\",\"erika costell\",\"erika kirk statement\",\"erika kirk talks about charlie\",\"erika kirk entrance\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "ado",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 185,
-          "body_sample": "[\"adopt me\",\"adolescence\",\"adore you\",\"ado\",\"adore you miley cyrus\",\"adopt me trading\",\"adopt me house build\",\"adolf hitler\",\"adopt me admin abuse\",\"adolf silva rampage crash\",\"adolescence reaction\",\"adonai nathaniel bassey\",\"adolescence emmy\",\"adolescence trailer\"]"
-        },
-        {
-          "kind": "suggest",
-          "term": "imagine dragons",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 191,
-          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons live\",\"imagine dragons playlist\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons lyrics\",\"imagine dragons bad liar\",\"imagine dragons whatever it takes\",\"imagin"
-        }
-      ],
-      "searches": [
-        {
-          "kind": "search",
-          "term": "imagine dragons",
-          "filter": "all",
-          "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=all",
-          "ok": true,
-          "status": 200,
-          "time_ms": 805,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=7PCwhYb3_rM\",\"type\":\"stream\",\"title\":\"Imagine Dragons Greatest Hits Full Album \\uD83D\\uDD25 Top 10 Songs Collection 2026 \\uD83C\\uDFB6 Demons, Believer, Thunder\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/7PCwhYb3_rM/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDxN_d_5sUNYqmOXbkmWb3mUxydXg&sqp="
-        },
-        {
-          "kind": "search",
-          "term": "iris out",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=iris%20out&filter=music_songs",
+          "url": "https://pipedapi.ducks.party/search?q=erika&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 483,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Cb0JZhdmjtg\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://proxy.piped.private.coffee/VGf2lFXKQdSyrz2g3Czj66doPtUxvJBrWDK6UFeOj8zRqS-tgs_D8FG5-8pYTX-Uh9FxZBDJIXtN1nKF=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-"
+          "time_ms": 831,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=gQBnoFKNfiU\",\"type\":\"stream\",\"title\":\"Vagabundo é Tu\",\"thumbnail\":\"https://piped-proxy.ducks.party/3Mj7V3F0e7Vt-kslPXJXHMLnuTAfzyvAnRQH2SoawTN1_qn0M8sG33Svnm_iKY1NtjgA3SLESXag_3_l=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Erika Trindade\",\"uploaderUrl\":\"/channel/UCWPHRWv"
         },
         {
           "kind": "search",
-          "term": "ado",
+          "term": "imagine dragons",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=ado&filter=music_videos",
+          "url": "https://pipedapi.ducks.party/search?q=imagine%20dragons&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 503,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=YwZWC6anFGs\",\"type\":\"stream\",\"title\":\"【Ado Cover】愛して愛して愛して/愛我愛我愛我【中日字幕】\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/YwZWC6anFGs/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3mb8tPDFF3Tv7mFXE_7rzevGPImJA&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"Ado推廣頻道\",\"uploaderUrl\":null,"
+          "time_ms": 576,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=7PCwhYb3_rM\",\"type\":\"stream\",\"title\":\"Imagine Dragons Greatest Hits Full Album \\uD83D\\uDD25 Top 10 Songs Collection 2026 \\uD83C\\uDFB6 Demons, Believer, Thunder\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/7PCwhYb3_rM/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3nuovfrg7cWBZgO8MfppJSBxbaXOQ&sqp"
         }
       ],
       "metrics": {
@@ -167,11 +167,11 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 188,
-        "avg_search_ms": 597,
-        "combined_latency_ms": 785
+        "avg_suggestion_ms": 205,
+        "avg_search_ms": 834,
+        "combined_latency_ms": 1039
       },
-      "checked_at": "2026-10-20T06:28:40.476Z",
+      "checked_at": "2026-10-20T12:02:01.223Z",
       "version": "2026.0.0",
       "isLatest": true
     }
