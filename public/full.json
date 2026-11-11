@@ -1,94 +1,8 @@
 {
-  "generated_at": "2026-11-10T19:35:40.628Z",
+  "generated_at": "2026-11-11T00:32:02.863Z",
   "source": "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md",
   "version_priority": "2026.0.0",
   "instances": [
-    {
-      "name": "ducks.party",
-      "api_url": "https://pipedapi.ducks.party",
-      "cdn": "No",
-      "raw": "ducks.party | https://pipedapi.ducks.party | 🇳🇱 | No | ![](https://pipedapi.ducks.party/registered/badge)",
-      "suggestions": [
-        {
-          "kind": "suggest",
-          "term": "rick astley",
-          "path": "/suggestions",
-          "url": "https://pipedapi.ducks.party/suggestions?query=rick%20astley&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 155,
-          "body_sample": "[\"rick astley\",\"rick astley never gonna give you up\",\"rick astley the smiths\",\"rick astley glastonbury 2023\",\"rick astley together forever\",\"rick astley songs\",\"rick astley cry for help\",\"rick astley foo fighters\",\"rick astley never gonna give you up live\",\"rick astley she wants to dance with me\",\"rick astley waiting o"
-        },
-        {
-          "kind": "suggest",
-          "term": "Never Gonna Give You Up",
-          "path": "/suggestions",
-          "url": "https://pipedapi.ducks.party/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 159,
-          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up remix\",\"never gonna give you up piano\",\"never gonna give you up meme\",\"never gonna give you up 10 hours\",\"never gonna give you up live\",\"never gonna give you up ba"
-        },
-        {
-          "kind": "suggest",
-          "term": "ado",
-          "path": "/suggestions",
-          "url": "https://pipedapi.ducks.party/suggestions?query=ado&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 126,
-          "body_sample": "[\"adopt me\",\"ado\",\"adore you\",\"adolescence\",\"adom fm 106.3 live\",\"adopt me trading\",\"adopt me house build\",\"adom tv live\",\"adopt me christmas\",\"adolescence reaction\",\"adoration live\",\"adolf hitler\",\"adore you miley cyrus\",\"adorn miguel\"]"
-        }
-      ],
-      "searches": [
-        {
-          "kind": "search",
-          "term": "iris out",
-          "filter": "all",
-          "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=iris%20out&filter=all",
-          "ok": true,
-          "status": 200,
-          "time_ms": 682,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=LmZD-TU96q4\",\"type\":\"stream\",\"title\":\"Kenshi Yonezu - IRIS OUT\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/LmZD-TU96q4/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAjXMjvAckioBpWT-ksz16_e8ugtA&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Kenshi Yonezu  米津玄師\",\"uploader"
-        },
-        {
-          "kind": "search",
-          "term": "imagine dragons",
-          "filter": "music_songs",
-          "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=imagine%20dragons&filter=music_songs",
-          "ok": true,
-          "status": 200,
-          "time_ms": 420,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Kx7B-XvmFtE\",\"type\":\"stream\",\"title\":\"Believer\",\"thumbnail\":\"https://piped-proxy.ducks.party/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Imagine Dragons\",\"uploaderUrl\":\"/channel/UC0aXrjVxG5"
-        },
-        {
-          "kind": "search",
-          "term": "erika",
-          "filter": "music_videos",
-          "path": "/search",
-          "url": "https://pipedapi.ducks.party/search?q=erika&filter=music_videos",
-          "ok": true,
-          "status": 200,
-          "time_ms": 460,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/WGw4mn2-ILc/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3mCmY9H8ipRLEYnEqiLtsITWL2S2A&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"FederalBruv\",\"uploaderUrl\":n"
-        }
-      ],
-      "metrics": {
-        "suggestion_success_count": 3,
-        "search_success_count": 3,
-        "suggestion_success_rate": 1,
-        "search_success_rate": 1,
-        "combined_success_rate": 1,
-        "avg_suggestion_ms": 147,
-        "avg_search_ms": 521,
-        "combined_latency_ms": 668
-      },
-      "checked_at": "2026-11-10T19:35:38.920Z",
-      "version": "2026.0.0",
-      "isLatest": true
-    },
     {
       "name": "private.coffee",
       "api_url": "https://api.piped.private.coffee",
@@ -97,23 +11,13 @@
       "suggestions": [
         {
           "kind": "suggest",
-          "term": "imagine dragons",
+          "term": "ado",
           "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
+          "url": "https://api.piped.private.coffee/suggestions?query=ado&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 174,
-          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons playlist\",\"imagine dragons live\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons sia\",\"imagine dragons on top of the world\",\"imagine dragons bad liar\",\"imagine"
-        },
-        {
-          "kind": "suggest",
-          "term": "Never Gonna Give You Up",
-          "path": "/suggestions",
-          "url": "https://api.piped.private.coffee/suggestions?query=Never%20Gonna%20Give%20You%20Up&music=true",
-          "ok": true,
-          "status": 200,
-          "time_ms": 167,
-          "body_sample": "[\"never gonna give you up\",\"never gonna give you up rick astley\",\"never gonna give you up karaoke\",\"never gonna give you up lyrics\",\"never gonna give you up remix\",\"never gonna give you up piano\",\"never gonna give you up meme\",\"never gonna give you up 10 hours\",\"never gonna give you up live\",\"never gonna give you up ba"
+          "time_ms": 202,
+          "body_sample": "[\"adopt me\",\"ado\",\"adore you\",\"adolescence\",\"adolf hitler\",\"adolescence reaction\",\"adom fm 106.3 live\",\"adopt me house build\",\"adopt me trading\",\"adom tv live\",\"adopt me christmas\",\"adoration live\",\"adore you miley cyrus\",\"adorn miguel\"]"
         },
         {
           "kind": "suggest",
@@ -122,43 +26,53 @@
           "url": "https://api.piped.private.coffee/suggestions?query=erika&music=true",
           "ok": true,
           "status": 200,
-          "time_ms": 171,
-          "body_sample": "[\"erika kirk\",\"erika isac\",\"erika piano\",\"erika diane\",\"erika kirk hot sauce comment\",\"erika kirk druski\",\"erika\",\"erika jayne\",\"erika piano tutorial\",\"erika kirk entrance\",\"erika kirk speech\",\"erika i don't know\",\"erika costell\",\"erika kirk interview\"]"
+          "time_ms": 204,
+          "body_sample": "[\"erika kirk\",\"erika isac\",\"erika piano\",\"erika diane\",\"erika kirk druski\",\"erika\",\"erika kirk hot sauce comment\",\"erika piano tutorial\",\"erika jayne\",\"erika kirk entrance\",\"erika kirk speech\",\"erika costell\",\"erika eleniak\",\"erika i don't know\"]"
+        },
+        {
+          "kind": "suggest",
+          "term": "imagine dragons",
+          "path": "/suggestions",
+          "url": "https://api.piped.private.coffee/suggestions?query=imagine%20dragons&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 236,
+          "body_sample": "[\"imagine dragons\",\"imagine dragons demons\",\"imagine dragons believer\",\"imagine dragons thunder\",\"imagine dragons radioactive\",\"imagine dragons playlist\",\"imagine dragons live\",\"imagine dragons bones\",\"imagine dragons enemy\",\"imagine dragons sia\",\"imagine dragons on top of the world\",\"imagine dragons bad liar\",\"imagine"
         }
       ],
       "searches": [
         {
           "kind": "search",
-          "term": "ado",
+          "term": "erika",
           "filter": "all",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=ado&filter=all",
+          "url": "https://api.piped.private.coffee/search?q=erika&filter=all",
           "ok": true,
           "status": 200,
-          "time_ms": 2042,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Qp3b-RXtz4w&list=RDEMCI2wPNzV0xPhm5R9l6ofvw\",\"type\":\"playlist\",\"name\":\"Mix - Ado\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/Qp3b-RXtz4w/hqdefault.jpg?host=i.ytimg.com&rs=AOn4CLDAq5l1DtWxvPkxSX9pucDZ-ze7_A&sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE%3D\",\"uploaderName\":\"Ado, YOASOBI, a"
+          "time_ms": 616,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=2FOtaw1F5rQ\",\"type\":\"stream\",\"title\":\"4 străzi\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/2FOtaw1F5rQ/hq720.jpg?host=i.ytimg.com&rs=AOn4CLDSB6wpna0gjGubZZvyDLXFciCHdw&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Erika Isac\",\"uploaderUrl\":\"/channel/UCuYDs7"
         },
         {
           "kind": "search",
-          "term": "imagine dragons",
+          "term": "ado",
           "filter": "music_songs",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=imagine%20dragons&filter=music_songs",
+          "url": "https://api.piped.private.coffee/search?q=ado&filter=music_songs",
           "ok": true,
           "status": 200,
-          "time_ms": 528,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Kx7B-XvmFtE\",\"type\":\"stream\",\"title\":\"Believer\",\"thumbnail\":\"https://proxy.piped.private.coffee/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Imagine Dragons\",\"uploaderUrl\":\"/channel/UC0aXrjV"
+          "time_ms": 512,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=UW15nfNNnsM\",\"type\":\"stream\",\"title\":\"Tot Musica (Live At 国立競技場, 2024) - Tot Musica (Live At Japan National Stadium, 2024)\",\"thumbnail\":\"https://proxy.piped.private.coffee/31wbbeRFmLu9bVJJdMa9uOfr3UbbeMaEpmVYD-xpdoCpFTcLCn9vRYqp4jHwGb-eYnN9q0T7zmUqxBaOuQ=w120-h120-l90-rw?host=yt3.googleuserco"
         },
         {
           "kind": "search",
-          "term": "erika",
+          "term": "rick astley",
           "filter": "music_videos",
           "path": "/search",
-          "url": "https://api.piped.private.coffee/search?q=erika&filter=music_videos",
+          "url": "https://api.piped.private.coffee/search?q=rick%20astley&filter=music_videos",
           "ok": true,
           "status": 200,
-          "time_ms": 551,
-          "body_sample": "{\"items\":[{\"url\":\"/watch?v=WGw4mn2-ILc\",\"type\":\"stream\",\"title\":\"\\\"Erika\\\" A German WW2 marching song\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/WGw4mn2-ILc/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3mCmY9H8ipRLEYnEqiLtsITWL2S2A&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"FederalBruv\",\"uploaderUrl"
+          "time_ms": 493,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://proxy.piped.private.coffee/vi/dQw4w9WgXcQ/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3lrEQLVd7aUH6RTaLjc4JkVVNINHQ&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/U"
         }
       ],
       "metrics": {
@@ -167,11 +81,97 @@
         "suggestion_success_rate": 1,
         "search_success_rate": 1,
         "combined_success_rate": 1,
-        "avg_suggestion_ms": 171,
-        "avg_search_ms": 1040,
-        "combined_latency_ms": 1211
+        "avg_suggestion_ms": 214,
+        "avg_search_ms": 540,
+        "combined_latency_ms": 754
       },
-      "checked_at": "2026-11-10T19:35:40.628Z",
+      "checked_at": "2026-11-11T00:31:53.285Z",
+      "version": "2026.0.0",
+      "isLatest": true
+    },
+    {
+      "name": "ducks.party",
+      "api_url": "https://pipedapi.ducks.party",
+      "cdn": "No",
+      "raw": "ducks.party | https://pipedapi.ducks.party | 🇳🇱 | No | ![](https://pipedapi.ducks.party/registered/badge)",
+      "suggestions": [
+        {
+          "kind": "suggest",
+          "term": "iris out",
+          "path": "/suggestions",
+          "url": "https://pipedapi.ducks.party/suggestions?query=iris%20out&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 182,
+          "body_sample": "[\"iris out\",\"iris out kenshi yonezu\",\"iris out english cover\",\"iris out piano\",\"iris out cover\",\"iris out dance\",\"iris out reaction\",\"iris out chainsaw man\",\"iris out karaoke\",\"iris out lyrics\",\"iris out 1 hour\",\"iris out live\",\"iris out english\",\"iris out guitar\"]"
+        },
+        {
+          "kind": "suggest",
+          "term": "союз советский социалистических республик",
+          "path": "/suggestions",
+          "url": "https://pipedapi.ducks.party/suggestions?query=%D1%81%D0%BE%D1%8E%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 190,
+          "body_sample": "[]"
+        },
+        {
+          "kind": "suggest",
+          "term": "erika",
+          "path": "/suggestions",
+          "url": "https://pipedapi.ducks.party/suggestions?query=erika&music=true",
+          "ok": true,
+          "status": 200,
+          "time_ms": 191,
+          "body_sample": "[\"erika kirk\",\"erika isac\",\"erika piano\",\"erika diane\",\"erika kirk druski\",\"erika\",\"erika kirk hot sauce comment\",\"erika piano tutorial\",\"erika jayne\",\"erika kirk entrance\",\"erika kirk speech\",\"erika costell\",\"erika eleniak\",\"erika i don't know\"]"
+        }
+      ],
+      "searches": [
+        {
+          "kind": "search",
+          "term": "ado",
+          "filter": "all",
+          "path": "/search",
+          "url": "https://pipedapi.ducks.party/search?q=ado&filter=all",
+          "ok": true,
+          "status": 200,
+          "time_ms": 877,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=q0OGymI3LMs\",\"type\":\"stream\",\"title\":\"Shinka\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/q0OGymI3LMs/hq720.jpg?host=i.ytimg.com&rs=AOn4CLByCAe39zOFmjQ2JanwbyVd38HSqQ&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D\",\"uploaderName\":\"Ado\",\"uploaderUrl\":\"/channel/UCln9P4Qm3-EAY4aiEP"
+        },
+        {
+          "kind": "search",
+          "term": "iris out",
+          "filter": "music_songs",
+          "path": "/search",
+          "url": "https://pipedapi.ducks.party/search?q=iris%20out&filter=music_songs",
+          "ok": true,
+          "status": 200,
+          "time_ms": 474,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=Cb0JZhdmjtg\",\"type\":\"stream\",\"title\":\"IRIS OUT\",\"thumbnail\":\"https://piped-proxy.ducks.party/VGf2lFXKQdSyrz2g3Czj66doPtUxvJBrWDK6UFeOj8zRqS-tgs_D8FG5-8pYTX-Uh9FxZBDJIXtN1nKF=w120-h120-l90-rw?host=yt3.googleusercontent.com\",\"uploaderName\":\"Kenshi Yonezu\",\"uploaderUrl\":\"/channel/UCC_OGcKdYY-aWF"
+        },
+        {
+          "kind": "search",
+          "term": "rick astley",
+          "filter": "music_videos",
+          "path": "/search",
+          "url": "https://pipedapi.ducks.party/search?q=rick%20astley&filter=music_videos",
+          "ok": true,
+          "status": 200,
+          "time_ms": 476,
+          "body_sample": "{\"items\":[{\"url\":\"/watch?v=dQw4w9WgXcQ\",\"type\":\"stream\",\"title\":\"Never Gonna Give You Up\",\"thumbnail\":\"https://piped-proxy.ducks.party/vi/dQw4w9WgXcQ/hqdefault.jpg?host=i.ytimg.com&rs=AMzJL3lrEQLVd7aUH6RTaLjc4JkVVNINHQ&sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg\",\"uploaderName\":\"Rick Astley\",\"uploaderUrl\":\"/channel/UCwZ"
+        }
+      ],
+      "metrics": {
+        "suggestion_success_count": 3,
+        "search_success_count": 3,
+        "suggestion_success_rate": 1,
+        "search_success_rate": 1,
+        "combined_success_rate": 1,
+        "avg_suggestion_ms": 188,
+        "avg_search_ms": 609,
+        "combined_latency_ms": 797
+      },
+      "checked_at": "2026-11-11T00:31:53.243Z",
       "version": "2026.0.0",
       "isLatest": true
     }
